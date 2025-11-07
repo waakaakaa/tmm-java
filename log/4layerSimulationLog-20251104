@@ -1,0 +1,1386 @@
+D:\88-JDK8\bin\java.exe "-javaagent:D:\92-IDEA\IntelliJ IDEA 2020.1\lib\idea_rt.jar=62197:D:\92-IDEA\IntelliJ IDEA 2020.1\bin" -Dfile.encoding=UTF-8 -classpath D:\88-JDK8\jre\lib\charsets.jar;D:\88-JDK8\jre\lib\deploy.jar;D:\88-JDK8\jre\lib\ext\access-bridge-64.jar;D:\88-JDK8\jre\lib\ext\cldrdata.jar;D:\88-JDK8\jre\lib\ext\dnsns.jar;D:\88-JDK8\jre\lib\ext\jaccess.jar;D:\88-JDK8\jre\lib\ext\jfxrt.jar;D:\88-JDK8\jre\lib\ext\localedata.jar;D:\88-JDK8\jre\lib\ext\nashorn.jar;D:\88-JDK8\jre\lib\ext\sunec.jar;D:\88-JDK8\jre\lib\ext\sunjce_provider.jar;D:\88-JDK8\jre\lib\ext\sunmscapi.jar;D:\88-JDK8\jre\lib\ext\sunpkcs11.jar;D:\88-JDK8\jre\lib\ext\zipfs.jar;D:\88-JDK8\jre\lib\javaws.jar;D:\88-JDK8\jre\lib\jce.jar;D:\88-JDK8\jre\lib\jfr.jar;D:\88-JDK8\jre\lib\jfxswt.jar;D:\88-JDK8\jre\lib\jsse.jar;D:\88-JDK8\jre\lib\management-agent.jar;D:\88-JDK8\jre\lib\plugin.jar;D:\88-JDK8\jre\lib\resources.jar;D:\88-JDK8\jre\lib\rt.jar;D:\01-workspace\idea-workspace\tmm\target\classes;D:\90-apache-maven-3.6.1\repo\commons-io\commons-io\2.16.1\commons-io-2.16.1.jar;D:\90-apache-maven-3.6.1\repo\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;D:\90-apache-maven-3.6.1\repo\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;D:\90-apache-maven-3.6.1\repo\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;D:\90-apache-maven-3.6.1\repo\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;D:\90-apache-maven-3.6.1\repo\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;D:\90-apache-maven-3.6.1\repo\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;D:\90-apache-maven-3.6.1\repo\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;D:\90-apache-maven-3.6.1\repo\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;D:\90-apache-maven-3.6.1\repo\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;D:\90-apache-maven-3.6.1\repo\org\apache\logging\log4j\log4j-core\2.17.1\log4j-core-2.17.1.jar;D:\90-apache-maven-3.6.1\repo\org\apache\logging\log4j\log4j-api\2.17.1\log4j-api-2.17.1.jar;D:\90-apache-maven-3.6.1\repo\org\apache\commons\commons-csv\1.10.0\commons-csv-1.10.0.jar;D:\90-apache-maven-3.6.1\repo\org\jfree\jfreechart\1.0.19\jfreechart-1.0.19.jar;D:\90-apache-maven-3.6.1\repo\org\jfree\jcommon\1.0.23\jcommon-1.0.23.jar;D:\90-apache-maven-3.6.1\repo\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;D:\90-apache-maven-3.6.1\repo\org\icepear\echarts\echarts-java\1.0.3\echarts-java-1.0.3.jar;D:\90-apache-maven-3.6.1\repo\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;D:\90-apache-maven-3.6.1\repo\com\github\jknack\handlebars\4.2.1\handlebars-4.2.1.jar;D:\90-apache-maven-3.6.1\repo\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;D:\90-apache-maven-3.6.1\repo\org\slf4j\slf4j-simple\1.7.25\slf4j-simple-1.7.25.jar;D:\01-workspace\idea-workspace\tmm\lib\Matplot3d_4j_sydh_x64_V5.0.jar com.tone.tmm.optimizer.Optimizer
+------Fri Oct 31 08:24:42 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	[10.0, 49.0, 29.5, 244.0]
+------Fri Oct 31 08:29:55 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	[-48.5, 29.5, 39.25, 253.75]
+Fri Oct 31 08:29:55 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	null
+------Fri Oct 31 08:34:38 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[185.5, 107.5, 10.0, 29.5]
+------Fri Oct 31 08:44:28 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[166.0, 78.25, 0.25, 78.25]
+Fri Oct 31 08:44:28 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	null
+------Fri Oct 31 08:49:42 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[341.5, 107.5, 10.0, 29.5]
+------Fri Oct 31 08:54:46 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[341.5, 107.5, 19.75, -19.25]
+Fri Oct 31 08:54:46 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	null
+------Fri Oct 31 08:59:59 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	[166.0, 49.0, 10.0, 146.5]
+------Fri Oct 31 09:05:03 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	[195.25, -19.25, -19.25, 224.5]
+Fri Oct 31 09:05:03 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	null
+------Fri Oct 31 09:09:32 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[341.5, 88.0, 29.5, 10.0]
+------Fri Oct 31 09:13:59 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[341.5, 68.5, 88.0, 0.25]
+Fri Oct 31 09:13:59 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	null
+------Fri Oct 31 09:18:27 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[166.0, 68.5, 68.5, 49.0]
+------Fri Oct 31 09:22:52 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[166.0, 0.25, 117.25, 117.25]
+Fri Oct 31 09:22:52 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	null
+------Fri Oct 31 09:27:17 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[185.5, 68.5, 10.0, 88.0]
+------Fri Oct 31 09:31:43 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[166.0, 68.5, -19.25, 107.5]
+Fri Oct 31 09:31:43 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	null
+------Fri Oct 31 09:36:07 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[166.0, 10.0, 68.5, 127.0]
+------Fri Oct 31 09:40:29 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[166.0, 10.0, 78.25, 117.25]
+------Fri Oct 31 09:44:50 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[166.0, 14.875, 73.375, 117.25]
+------Fri Oct 31 09:49:11 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[163.5625, 2.6875, 85.5625, 119.6875]
+------Fri Oct 31 09:53:34 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[163.5625, 1.46875, 86.78125, 119.6875]
+Fri Oct 31 09:53:34 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	null
+------Fri Oct 31 09:58:00 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[166.0, 88.0, 29.5, 10.0]
+------Fri Oct 31 10:04:58 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[166.0, 68.5, 88.0, 0.25]
+Fri Oct 31 10:04:58 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_Si_new]	bestThk:	null
+------Fri Oct 31 10:09:57 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[166.0, 10.0, 107.5, 107.5]
+------Fri Oct 31 10:14:26 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[166.0, 0.25, 117.25, 117.25]
+Fri Oct 31 10:14:26 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	null
+------Fri Oct 31 10:21:35 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[185.5, 68.5, 88.0, 10.0]
+------Fri Oct 31 10:26:06 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[166.0, 68.5, 88.0, 0.25]
+Fri Oct 31 10:26:06 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	null
+------Fri Oct 31 10:30:39 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[166.0, 10.0, 88.0, 107.5]
+------Fri Oct 31 10:35:07 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[166.0, 10.0, 78.25, 117.25]
+------Fri Oct 31 10:39:27 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[166.0, 10.0, 83.125, 112.375]
+------Fri Oct 31 10:43:49 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[163.5625, 5.125, 85.5625, 114.8125]
+------Fri Oct 31 10:48:11 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[164.78125, 7.5625, 84.34375, 113.59375]
+------Fri Oct 31 10:52:33 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[164.171875, 3.90625, 88.0, 114.203125]
+------Fri Oct 31 10:56:54 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[164.171875, 3.90625, 88.0, 114.203125]
+------Fri Oct 31 11:01:43 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[164.171875, 3.6015625, 88.3046875, 114.35546875]
+------Fri Oct 31 11:06:05 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[164.171875, 3.6015625, 88.380859375, 114.279296875]
+Fri Oct 31 11:06:05 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[164.171875, 3.6015625, 88.380859375, 114.279296875]	R:	1.0358648541326031E-4	bw:	205.0
+------Fri Oct 31 11:10:30 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Al2O3, TY_Si_new]	bestThk:	[341.5, 10.0, 127.0, 10.0]
+------Fri Oct 31 11:20:13 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Al2O3, TY_Si_new]	bestThk:	[331.75, 0.25, 127.0, 10.0]
+Fri Oct 31 11:20:13 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Al2O3, TY_Si_new]	bestThk:	null
+------Fri Oct 31 11:31:03 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[166.0, 10.0, 185.5, 10.0]
+------Fri Oct 31 11:41:44 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[166.0, 0.25, 195.25, 10.0]
+Fri Oct 31 11:41:44 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Al2O3, TY_SiO2_new]	bestThk:	null
+------Fri Oct 31 11:54:35 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[185.5, 10.0, 68.5, 88.0]
+------Fri Oct 31 12:06:23 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[166.0, 97.75, -29.0, 88.0]
+Fri Oct 31 12:06:23 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	null
+------Fri Oct 31 12:16:48 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[185.5, 29.5, 49.0, 88.0]
+------Fri Oct 31 12:21:43 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[166.0, 68.5, 0.25, 88.0]
+Fri Oct 31 12:21:43 CST 2025	[TY_Si_new, TY_SiO2_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	null
+------Fri Oct 31 12:26:10 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	[166.0, 68.5, 10.0, 185.5]
+------Fri Oct 31 12:30:34 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	[146.5, 39.25, 19.75, 214.75]
+------Fri Oct 31 12:34:58 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	[156.25, 49.0, 14.875, 200.125]
+------Fri Oct 31 12:39:23 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	[156.25, 53.875, 12.4375, 190.375]
+------Fri Oct 31 12:43:48 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	[158.6875, 57.53125, 11.21875, 186.71875]
+------Fri Oct 31 12:48:11 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	[156.859375, 53.875, 12.4375, 191.59375]
+------Fri Oct 31 12:52:52 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	[157.46875, 55.3984375, 11.828125, 188.8515625]
+------Fri Oct 31 12:59:53 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	[157.62109375, 55.55078125, 11.828125, 189.00390625]
+------Fri Oct 31 13:05:46 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	[157.7734375, 55.931640625, 11.67578125, 188.39453125]
+Fri Oct 31 13:05:46 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	[157.7734375, 55.931640625, 11.67578125, 188.39453125]	R:	6.593099156600438E-5	bw:	245.0
+------Fri Oct 31 13:16:51 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[185.5, 322.0, 107.5, 146.5]
+------Fri Oct 31 13:29:39 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[156.25, 322.0, 49.0, 175.75]
+------Fri Oct 31 13:37:59 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[180.625, 346.375, 58.75, 180.625]
+------Fri Oct 31 13:45:37 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[183.0625, 348.8125, 58.75, 180.625]
+------Fri Oct 31 13:56:04 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[180.625, 348.8125, 57.53125, 181.84375]
+------Fri Oct 31 14:06:21 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[180.015625, 347.59375, 57.53125, 181.234375]
+------Fri Oct 31 14:16:44 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[180.3203125, 348.203125, 57.53125, 181.5390625]
+------Fri Oct 31 14:26:54 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[180.47265625, 348.203125, 57.53125, 181.5390625]
+------Fri Oct 31 14:36:58 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[180.3203125, 348.126953125, 57.455078125, 181.5390625]
+Fri Oct 31 14:36:58 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[180.3203125, 348.126953125, 57.455078125, 181.5390625]	R:	3.4679018530393824E-4	bw:	99.0
+------Fri Oct 31 14:45:12 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[166.0, 341.5, 49.0, 185.5]
+------Fri Oct 31 14:49:42 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[166.0, 263.5, -48.5, 117.25]
+Fri Oct 31 14:49:42 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new]	bestThk:	null
+------Fri Oct 31 14:55:14 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[166.0, 361.0, 29.5, 224.5]
+------Fri Oct 31 15:05:43 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[166.0, 361.0, 29.5, 224.5]
+------Fri Oct 31 15:16:16 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[166.0, 361.0, 29.5, 229.375]
+------Fri Oct 31 15:25:48 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[166.0, 363.4375, 29.5, 229.375]
+------Fri Oct 31 15:36:18 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[168.4375, 367.09375, 30.71875, 234.25]
+------Fri Oct 31 15:46:40 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[169.046875, 367.09375, 30.71875, 233.640625]
+------Fri Oct 31 15:56:39 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[169.046875, 367.09375, 30.71875, 233.640625]
+------Fri Oct 31 16:07:03 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[168.7421875, 366.7890625, 30.71875, 233.48828125]
+------Fri Oct 31 16:17:28 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[168.666015625, 366.63671875, 30.642578125, 233.259765625]
+Fri Oct 31 16:17:28 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[168.666015625, 366.63671875, 30.642578125, 233.259765625]	R:	8.855583927690467E-5	bw:	169.0
+------Fri Oct 31 16:23:54 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si_new]	bestThk:	[322.0, 68.5, 68.5, 10.0]
+------Fri Oct 31 16:28:18 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si_new]	bestThk:	[331.75, 117.25, 107.5, 0.25]
+Fri Oct 31 16:28:18 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si_new]	bestThk:	null
+------Fri Oct 31 16:32:42 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[166.0, 49.0, 49.0, 68.5]
+------Fri Oct 31 16:37:03 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[166.0, 107.5, 78.25, 19.75]
+------Fri Oct 31 16:41:30 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[161.125, 112.375, 117.25, 0.25]
+Fri Oct 31 16:41:30 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	null
+------Fri Oct 31 16:45:53 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[166.0, 107.5, 107.5, 10.0]
+------Fri Oct 31 16:50:15 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[166.0, 107.5, 78.25, 19.75]
+------Fri Oct 31 16:54:36 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[161.125, 107.5, 88.0, 14.875]
+------Fri Oct 31 16:58:58 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[161.125, 109.9375, 102.625, 7.5625]
+------Fri Oct 31 17:03:20 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[162.34375, 111.15625, 108.71875, 5.125]
+------Fri Oct 31 17:07:40 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[162.34375, 111.765625, 112.984375, 3.296875]
+------Fri Oct 31 17:12:06 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[162.34375, 111.765625, 115.421875, 2.3828125]
+------Fri Oct 31 17:16:38 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[162.34375, 111.91796875, 116.79296875, 1.7734375]
+Fri Oct 31 17:16:38 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	null
+------Fri Oct 31 17:21:13 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[166.0, 107.5, 88.0, 29.5]
+------Fri Oct 31 17:25:44 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[166.0, 107.5, 49.0, 58.75]
+------Fri Oct 31 17:30:20 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[161.125, 107.5, 63.625, 44.125]
+------Fri Oct 31 17:34:49 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[163.5625, 109.9375, 83.125, 29.5]
+------Fri Oct 31 17:39:14 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[162.34375, 111.15625, 94.09375, 19.75]
+------Fri Oct 31 17:43:40 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[162.34375, 111.15625, 98.359375, 16.703125]
+------Fri Oct 31 17:48:05 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[162.34375, 111.4609375, 101.1015625, 14.5703125]
+------Fri Oct 31 17:52:31 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[162.34375, 111.4609375, 102.3203125, 13.65625]
+------Fri Oct 31 17:56:57 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[162.267578125, 111.4609375, 103.005859375, 13.19921875]
+Fri Oct 31 17:56:57 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[162.267578125, 111.4609375, 103.005859375, 13.19921875]	R:	8.746823489762667E-5	bw:	220.0
+------Fri Oct 31 18:01:26 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[88.0, 68.5, 49.0, 10.0]
+------Fri Oct 31 18:05:56 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[39.25, 49.0, 127.0, 0.25]
+Fri Oct 31 18:05:56 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new]	bestThk:	null
+------Fri Oct 31 18:10:21 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[166.0, 10.0, 107.5, 107.5]
+------Fri Oct 31 18:14:43 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[166.0, 58.75, 58.75, 117.25]
+------Fri Oct 31 18:19:05 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[161.125, 88.0, 24.625, 122.125]
+------Fri Oct 31 18:23:29 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[161.125, 90.4375, 22.1875, 119.6875]
+------Fri Oct 31 18:27:53 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[162.34375, 100.1875, 12.4375, 120.90625]
+------Fri Oct 31 18:32:16 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[162.34375, 100.1875, 12.4375, 120.90625]
+------Fri Oct 31 18:36:44 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[162.34375, 100.1875, 12.4375, 120.90625]
+------Fri Oct 31 18:41:15 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[162.34375, 100.64453125, 11.98046875, 120.75390625]
+------Fri Oct 31 18:45:45 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[162.34375, 101.330078125, 11.21875, 120.830078125]
+Fri Oct 31 18:45:45 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[162.34375, 101.330078125, 11.21875, 120.830078125]	R:	8.634363128054811E-5	bw:	221.0
+------Fri Oct 31 18:50:19 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[127.0, 10.0, 88.0, 49.0]
+------Fri Oct 31 18:54:47 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[214.75, -87.5, -9.5, -48.5]
+Fri Oct 31 18:54:47 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	null
+------Fri Oct 31 18:59:14 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[166.0, 10.0, 88.0, 107.5]
+------Fri Oct 31 19:03:39 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[166.0, -58.25, 146.5, 117.25]
+Fri Oct 31 19:03:39 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	null
+------Fri Oct 31 19:08:08 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Al2O3, TY_Si_new]	bestThk:	[166.0, 29.5, 107.5, 10.0]
+------Fri Oct 31 19:12:36 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Al2O3, TY_Si_new]	bestThk:	[166.0, 88.0, 117.25, 0.25]
+Fri Oct 31 19:12:36 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Al2O3, TY_Si_new]	bestThk:	null
+------Fri Oct 31 19:17:01 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[166.0, 88.0, 88.0, 49.0]
+------Fri Oct 31 19:21:25 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[166.0, 117.25, -9.5, 127.0]
+Fri Oct 31 19:21:25 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new]	bestThk:	null
+------Fri Oct 31 19:25:54 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[166.0, 68.5, 88.0, 29.5]
+------Fri Oct 31 19:30:15 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[166.0, 78.25, 78.25, 29.5]
+------Fri Oct 31 19:34:37 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[161.125, 88.0, 117.25, 0.25]
+Fri Oct 31 19:34:37 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	null
+------Fri Oct 31 19:39:02 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[166.0, 29.5, 68.5, 68.5]
+------Fri Oct 31 19:43:27 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[166.0, 58.75, 68.5, 49.0]
+------Fri Oct 31 19:47:51 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[161.125, 83.125, 88.0, 19.75]
+------Fri Oct 31 19:52:14 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[163.5625, 88.0, 102.625, 10.0]
+------Fri Oct 31 19:56:43 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[162.34375, 88.0, 112.375, 3.90625]
+------Fri Oct 31 20:01:16 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[162.953125, 88.609375, 117.859375, 0.859375]
+Fri Oct 31 20:01:16 CST 2025	[TY_Si_new, TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	null
+------Fri Oct 31 20:05:47 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_SiO2_new]	bestThk:	[29.5, 68.5, 29.5, 263.5]
+------Fri Oct 31 20:10:19 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_SiO2_new]	bestThk:	[-29.0, 39.25, 29.5, 253.75]
+Fri Oct 31 20:10:19 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_SiO2_new]	bestThk:	null
+------Fri Oct 31 20:14:46 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[185.5, 322.0, 107.5, 146.5]
+------Fri Oct 31 20:19:10 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[175.75, 322.0, 117.25, 146.5]
+------Fri Oct 31 20:23:37 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[180.625, 322.0, 112.375, 146.5]
+------Fri Oct 31 20:28:03 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[178.1875, 322.0, 112.375, 146.5]
+------Fri Oct 31 20:32:28 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[176.96875, 320.78125, 113.59375, 145.28125]
+------Fri Oct 31 20:36:52 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[177.578125, 322.0, 114.203125, 145.890625]
+------Fri Oct 31 20:41:17 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[177.8828125, 322.0, 113.8984375, 145.890625]
+------Fri Oct 31 20:45:44 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[177.73046875, 322.0, 114.05078125, 145.73828125]
+------Fri Oct 31 20:50:09 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[177.806640625, 322.0, 114.05078125, 145.73828125]
+Fri Oct 31 20:50:09 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[177.806640625, 322.0, 114.05078125, 145.73828125]	R:	3.637303783791545E-4	bw:	103.0
+------Fri Oct 31 20:54:36 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[166.0, 341.5, 49.0, 185.5]
+------Fri Oct 31 20:59:04 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[166.0, 244.0, -38.75, 97.75]
+Fri Oct 31 20:59:04 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	null
+------Fri Oct 31 21:03:32 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	[68.5, 29.5, 49.0, 205.0]
+------Fri Oct 31 21:07:54 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	[117.25, -38.75, 127.0, 195.25]
+Fri Oct 31 21:07:54 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	null
+------Fri Oct 31 21:12:22 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	[322.0, 68.5, 68.5, 10.0]
+------Fri Oct 31 21:16:51 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	[331.75, 78.25, 68.5, 10.0]
+------Fri Oct 31 21:21:21 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	[331.75, 73.375, 68.5, 10.0]
+------Fri Oct 31 21:25:51 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	[331.75, 49.0, 78.25, 12.4375]
+------Fri Oct 31 21:30:20 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	[332.96875, 50.21875, 78.25, 12.4375]
+------Fri Oct 31 21:34:43 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	[332.359375, 49.609375, 78.25, 12.4375]
+------Fri Oct 31 21:39:06 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	[332.6640625, 49.609375, 78.5546875, 12.4375]
+------Fri Oct 31 21:43:29 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	[332.6640625, 49.45703125, 78.5546875, 12.4375]
+------Fri Oct 31 21:47:52 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	[332.6640625, 49.533203125, 78.478515625, 12.4375]
+Fri Oct 31 21:47:52 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	[332.6640625, 49.533203125, 78.478515625, 12.4375]	R:	6.42948826029634E-4	bw:	0.0
+------Fri Oct 31 21:52:16 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[166.0, 49.0, 49.0, 68.5]
+------Fri Oct 31 21:56:37 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[166.0, 117.25, 88.0, 10.0]
+------Fri Oct 31 22:01:00 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[161.125, 112.375, 131.875, -4.625]
+Fri Oct 31 22:01:00 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	null
+------Fri Oct 31 22:05:24 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[166.0, 49.0, 49.0, 68.5]
+------Fri Oct 31 22:09:45 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[166.0, 117.25, 88.0, 10.0]
+------Fri Oct 31 22:14:07 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[161.125, 112.375, 92.875, 10.0]
+------Fri Oct 31 22:18:32 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[163.5625, 114.8125, 102.625, 5.125]
+------Fri Oct 31 22:22:55 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[162.34375, 114.8125, 105.0625, 3.90625]
+------Fri Oct 31 22:27:17 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[162.953125, 115.421875, 108.109375, 2.6875]
+------Fri Oct 31 22:31:39 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[162.953125, 115.421875, 110.546875, 1.7734375]
+Fri Oct 31 22:31:39 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	null
+------Fri Oct 31 22:36:06 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[166.0, 107.5, 29.5, 68.5]
+------Fri Oct 31 22:40:34 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[166.0, 117.25, 88.0, 19.75]
+------Fri Oct 31 22:45:03 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[161.125, 112.375, 83.125, 24.625]
+------Fri Oct 31 22:49:30 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[163.5625, 114.8125, 95.3125, 14.875]
+------Fri Oct 31 22:53:55 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[162.34375, 114.8125, 106.28125, 6.34375]
+------Fri Oct 31 22:58:16 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[162.953125, 115.421875, 110.546875, 3.296875]
+------Fri Oct 31 23:02:38 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[162.953125, 115.421875, 112.6796875, 1.7734375]
+Fri Oct 31 23:02:38 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_SiO2_new, TY_Al2O3]	bestThk:	null
+------Fri Oct 31 23:07:03 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[88.0, 107.5, 10.0, 10.0]
+------Fri Oct 31 23:11:26 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[39.25, 195.25, -19.25, 0.25]
+Fri Oct 31 23:11:26 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	null
+------Fri Oct 31 23:15:49 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[166.0, 107.5, 10.0, 107.5]
+------Fri Oct 31 23:20:12 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[166.0, 146.5, -29.0, 117.25]
+Fri Oct 31 23:20:12 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	null
+------Fri Oct 31 23:24:38 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[127.0, 88.0, 49.0, 10.0]
+------Fri Oct 31 23:28:59 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[39.25, -9.5, -48.5, -87.5]
+Fri Oct 31 23:28:59 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	null
+------Fri Oct 31 23:33:22 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[166.0, 88.0, 10.0, 107.5]
+------Fri Oct 31 23:37:44 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[166.0, 117.25, -19.25, 107.5]
+Fri Oct 31 23:37:44 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	null
+------Fri Oct 31 23:42:08 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Al2O3, TY_Si_new]	bestThk:	[166.0, 49.0, 88.0, 10.0]
+------Fri Oct 31 23:46:30 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Al2O3, TY_Si_new]	bestThk:	[166.0, 97.75, 107.5, 0.25]
+Fri Oct 31 23:46:30 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Al2O3, TY_Si_new]	bestThk:	null
+------Fri Oct 31 23:50:52 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[166.0, 107.5, 49.0, 68.5]
+------Fri Oct 31 23:55:16 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[166.0, 97.75, 68.5, 58.75]
+------Fri Oct 31 23:59:43 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[161.125, 107.5, 24.625, 97.75]
+------Sat Nov 01 00:04:35 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[163.5625, 109.9375, 22.1875, 97.75]
+------Sat Nov 01 00:09:21 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[162.34375, 112.375, 10.0, 107.5]
+------Sat Nov 01 00:14:00 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[162.953125, 114.203125, 4.515625, 111.765625]
+------Sat Nov 01 00:18:27 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[162.953125, 114.8125, 2.078125, 113.8984375]
+------Sat Nov 01 00:22:50 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[162.953125, 115.26953125, 0.5546875, 114.8125]
+Sat Nov 01 00:22:50 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Al2O3, TY_SiO2_new]	bestThk:	null
+------Sat Nov 01 00:27:13 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[166.0, 88.0, 68.5, 29.5]
+------Sat Nov 01 00:31:45 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[166.0, 88.0, 156.25, -19.25]
+Sat Nov 01 00:31:45 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	null
+------Sat Nov 01 00:36:09 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[166.0, 29.5, 68.5, 68.5]
+------Sat Nov 01 00:40:30 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[166.0, 88.0, 156.25, -19.25]
+Sat Nov 01 00:40:30 CST 2025	[TY_Si_new, TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 00:44:56 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[166.0, 68.5, 10.0, 146.5]
+------Sat Nov 01 00:49:19 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[156.25, 39.25, 19.75, 205.0]
+------Sat Nov 01 00:53:41 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[161.125, 49.0, 14.875, 185.5]
+------Sat Nov 01 00:58:03 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[161.125, 49.0, 14.875, 185.5]
+------Sat Nov 01 01:02:29 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[162.34375, 49.0, 14.875, 186.71875]
+------Sat Nov 01 01:06:54 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[161.125, 47.171875, 15.484375, 189.765625]
+------Sat Nov 01 01:11:19 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[161.734375, 48.0859375, 15.1796875, 188.546875]
+------Sat Nov 01 01:15:48 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[161.4296875, 47.62890625, 15.33203125, 189.15625]
+------Sat Nov 01 01:20:18 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[161.58203125, 47.857421875, 15.255859375, 188.775390625]
+Sat Nov 01 01:20:18 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[161.58203125, 47.857421875, 15.255859375, 188.775390625]	R:	6.65195909320252E-5	bw:	244.0
+------Sat Nov 01 01:24:53 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_Ta2O5_new]	bestThk:	[185.5, 127.0, 10.0, 10.0]
+------Sat Nov 01 01:29:23 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_Ta2O5_new]	bestThk:	[166.0, 88.0, 0.25, 68.5]
+Sat Nov 01 01:29:23 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_Ta2O5_new]	bestThk:	null
+------Sat Nov 01 01:33:54 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	[380.5, 10.0, 107.5, 166.0]
+------Sat Nov 01 01:38:26 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	[312.25, -19.25, 19.75, 175.75]
+Sat Nov 01 01:38:26 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 01:42:49 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[341.5, 127.0, 10.0, 10.0]
+------Sat Nov 01 01:47:13 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[331.75, 117.25, 10.0, 19.75]
+------Sat Nov 01 01:51:34 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[336.625, 122.125, 10.0, 14.875]
+------Sat Nov 01 01:55:56 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[336.625, 124.5625, 10.0, 10.0]
+------Sat Nov 01 02:00:20 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[336.625, 123.34375, 10.0, 12.4375]
+------Sat Nov 01 02:04:45 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[336.625, 123.34375, 10.0, 12.4375]
+------Sat Nov 01 02:09:10 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[336.3203125, 123.0390625, 9.6953125, 15.1796875]
+------Sat Nov 01 02:13:32 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[336.47265625, 123.19140625, 9.6953125, 15.1796875]
+------Sat Nov 01 02:17:55 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[336.47265625, 123.115234375, 9.6953125, 15.255859375]
+Sat Nov 01 02:17:55 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[336.47265625, 123.115234375, 9.6953125, 15.255859375]	R:	6.404849989105399E-4	bw:	0.0
+------Sat Nov 01 02:22:18 CST 2025	[TY_Si_new, TY_Al2O3, TY_SiO2_new, TY_Si_new]	bestThk:	[166.0, 107.5, 29.5, 10.0]
+------Sat Nov 01 02:26:45 CST 2025	[TY_Si_new, TY_Al2O3, TY_SiO2_new, TY_Si_new]	bestThk:	[166.0, 136.75, -9.5, 10.0]
+Sat Nov 01 02:26:45 CST 2025	[TY_Si_new, TY_Al2O3, TY_SiO2_new, TY_Si_new]	bestThk:	null
+------Sat Nov 01 02:31:11 CST 2025	[TY_Si_new, TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[185.5, 68.5, 10.0, 88.0]
+------Sat Nov 01 02:35:36 CST 2025	[TY_Si_new, TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[166.0, 127.0, -29.0, 58.75]
+Sat Nov 01 02:35:36 CST 2025	[TY_Si_new, TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	null
+------Sat Nov 01 02:40:07 CST 2025	[TY_Si_new, TY_Al2O3, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[166.0, 88.0, 10.0, 68.5]
+------Sat Nov 01 02:44:37 CST 2025	[TY_Si_new, TY_Al2O3, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[166.0, 146.5, -48.5, 58.75]
+Sat Nov 01 02:44:37 CST 2025	[TY_Si_new, TY_Al2O3, TY_SiO2_new, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 02:49:06 CST 2025	[TY_Si_new, TY_Al2O3, TY_SiO2_new, TY_Al2O3]	bestThk:	[166.0, 185.5, 10.0, 10.0]
+------Sat Nov 01 02:53:34 CST 2025	[TY_Si_new, TY_Al2O3, TY_SiO2_new, TY_Al2O3]	bestThk:	[166.0, 175.75, -87.5, 97.75]
+Sat Nov 01 02:53:34 CST 2025	[TY_Si_new, TY_Al2O3, TY_SiO2_new, TY_Al2O3]	bestThk:	null
+------Sat Nov 01 02:57:58 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_Si_new]	bestThk:	[166.0, 107.5, 10.0, 10.0]
+------Sat Nov 01 03:02:23 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_Si_new]	bestThk:	[166.0, 88.0, 68.5, 0.25]
+Sat Nov 01 03:02:23 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_Si_new]	bestThk:	null
+------Sat Nov 01 03:06:49 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[166.0, 29.5, 88.0, 107.5]
+------Sat Nov 01 03:11:12 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[166.0, 49.0, 68.5, 97.75]
+------Sat Nov 01 03:15:35 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[166.0, 29.5, 83.125, 112.375]
+------Sat Nov 01 03:19:58 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[163.5625, 14.875, 95.3125, 119.6875]
+------Sat Nov 01 03:24:20 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[163.5625, 7.5625, 103.84375, 120.90625]
+------Sat Nov 01 03:28:42 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[162.953125, 3.90625, 107.5, 121.515625]
+------Sat Nov 01 03:33:05 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[162.6484375, 3.296875, 108.109375, 121.515625]
+------Sat Nov 01 03:37:28 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[162.6484375, 2.53515625, 109.0234375, 121.515625]
+------Sat Nov 01 03:41:52 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[162.724609375, 2.916015625, 108.642578125, 121.439453125]
+Sat Nov 01 03:41:52 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[162.724609375, 2.916015625, 108.642578125, 121.439453125]	R:	8.726452210189687E-5	bw:	222.0
+------Sat Nov 01 03:46:18 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[166.0, 107.5, 10.0, 49.0]
+------Sat Nov 01 03:50:40 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[166.0, 88.0, 97.75, -29.0]
+Sat Nov 01 03:50:40 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 03:55:05 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[166.0, 68.5, 49.0, 68.5]
+------Sat Nov 01 03:59:32 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[166.0, 19.75, 68.5, 117.25]
+------Sat Nov 01 04:04:06 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[166.0, 19.75, 68.5, 117.25]
+------Sat Nov 01 04:08:36 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[163.5625, 2.6875, 85.5625, 119.6875]
+------Sat Nov 01 04:13:06 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[163.5625, 2.6875, 85.5625, 119.6875]
+------Sat Nov 01 04:17:31 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[163.5625, 4.515625, 83.734375, 119.078125]
+------Sat Nov 01 04:21:53 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[163.5625, 3.6015625, 84.6484375, 119.3828125]
+------Sat Nov 01 04:26:20 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[163.5625, 3.75390625, 84.49609375, 119.3828125]
+------Sat Nov 01 04:30:45 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[163.5625, 3.982421875, 84.267578125, 119.306640625]
+Sat Nov 01 04:30:45 CST 2025	[TY_Si_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[163.5625, 3.982421875, 84.267578125, 119.306640625]	R:	1.0351741754453443E-4	bw:	206.0
+------Sat Nov 01 04:35:12 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si3N4_new, TY_Si_new]	bestThk:	[166.0, 107.5, 10.0, 10.0]
+------Sat Nov 01 04:39:34 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si3N4_new, TY_Si_new]	bestThk:	[175.75, 117.25, 97.75, -9.5]
+Sat Nov 01 04:39:34 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si3N4_new, TY_Si_new]	bestThk:	null
+------Sat Nov 01 04:43:58 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[166.0, 29.5, 88.0, 107.5]
+------Sat Nov 01 04:48:21 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[166.0, 19.75, 97.75, 107.5]
+------Sat Nov 01 04:52:43 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[161.125, -9.5, 127.0, 112.375]
+Sat Nov 01 04:52:43 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	null
+------Sat Nov 01 04:57:06 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[166.0, 107.5, 49.0, 10.0]
+------Sat Nov 01 05:01:30 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[175.75, 88.0, 107.5, -29.0]
+Sat Nov 01 05:01:30 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	null
+------Sat Nov 01 05:05:55 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si3N4_new, TY_Al2O3]	bestThk:	[166.0, 10.0, 88.0, 107.5]
+------Sat Nov 01 05:10:18 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si3N4_new, TY_Al2O3]	bestThk:	[166.0, 10.0, 78.25, 117.25]
+------Sat Nov 01 05:14:42 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si3N4_new, TY_Al2O3]	bestThk:	[166.0, 14.875, 78.25, 112.375]
+------Sat Nov 01 05:19:12 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si3N4_new, TY_Al2O3]	bestThk:	[163.5625, -4.625, 97.75, 114.8125]
+Sat Nov 01 05:19:12 CST 2025	[TY_Si_new, TY_Al2O3, TY_Si3N4_new, TY_Al2O3]	bestThk:	null
+------Sat Nov 01 05:23:43 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Si_new]	bestThk:	[29.5, 29.5, 146.5, 10.0]
+------Sat Nov 01 05:28:12 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Si_new]	bestThk:	[39.25, 19.75, 214.75, 0.25]
+Sat Nov 01 05:28:12 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Si_new]	bestThk:	null
+------Sat Nov 01 05:32:46 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[49.0, 29.5, 244.0, 10.0]
+------Sat Nov 01 05:37:12 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[49.0, 29.5, 234.25, 10.0]
+------Sat Nov 01 05:41:34 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[44.125, 29.5, 200.125, 19.75]
+------Sat Nov 01 05:45:56 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[44.125, 27.0625, 217.1875, 10.0]
+------Sat Nov 01 05:50:22 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[44.125, 27.0625, 228.15625, 6.34375]
+------Sat Nov 01 05:54:49 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[44.125, 27.0625, 231.203125, 5.125]
+------Sat Nov 01 05:59:12 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[44.4296875, 27.0625, 233.9453125, 4.2109375]
+------Sat Nov 01 06:03:42 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[44.27734375, 26.91015625, 235.31640625, 3.44921875]
+------Sat Nov 01 06:08:08 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[44.353515625, 26.986328125, 236.001953125, 3.373046875]
+Sat Nov 01 06:08:08 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[44.353515625, 26.986328125, 236.001953125, 3.373046875]	R:	2.669904188623583E-5	bw:	302.0
+------Sat Nov 01 06:12:38 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[49.0, 29.5, 244.0, 10.0]
+------Sat Nov 01 06:17:05 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[39.25, 29.5, 175.75, 29.5]
+------Sat Nov 01 06:21:32 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[44.125, 29.5, 205.0, 19.75]
+------Sat Nov 01 06:25:55 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[44.125, 27.0625, 224.5, 7.5625]
+------Sat Nov 01 06:30:20 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[44.125, 27.0625, 231.8125, 5.125]
+------Sat Nov 01 06:34:49 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[44.734375, 27.0625, 237.296875, 3.296875]
+------Sat Nov 01 06:39:27 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[44.4296875, 27.0625, 238.515625, 2.6875]
+------Sat Nov 01 06:44:01 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[44.4296875, 26.91015625, 239.58203125, 2.078125]
+------Sat Nov 01 06:48:37 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[44.505859375, 26.986328125, 240.19140625, 2.001953125]
+Sat Nov 01 06:48:37 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[44.505859375, 26.986328125, 240.19140625, 2.001953125]	R:	2.9171367107096863E-5	bw:	304.0
+------Sat Nov 01 06:53:07 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[49.0, 29.5, 244.0, 10.0]
+------Sat Nov 01 06:57:30 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[49.0, 29.5, 302.5, -29.0]
+Sat Nov 01 06:57:30 CST 2025	[TY_SiO2_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	null
+------Sat Nov 01 07:01:59 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[10.0, 68.5, 127.0, 10.0]
+------Sat Nov 01 07:06:28 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[39.25, -9.5, 117.25, 0.25]
+Sat Nov 01 07:06:28 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	null
+------Sat Nov 01 07:10:57 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[29.5, 29.5, 127.0, 166.0]
+------Sat Nov 01 07:15:27 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[-48.5, -19.25, 156.25, 205.0]
+Sat Nov 01 07:15:27 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	null
+------Sat Nov 01 07:19:57 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[107.5, 10.0, 10.0, 10.0]
+------Sat Nov 01 07:24:22 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[78.25, 0.25, 29.5, 49.0]
+Sat Nov 01 07:24:22 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 07:28:50 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[10.0, 185.5, 88.0, 127.0]
+------Sat Nov 01 07:33:14 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[-9.5, 146.5, 78.25, 127.0]
+Sat Nov 01 07:33:14 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	null
+------Sat Nov 01 07:37:42 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[10.0, 127.0, 107.5, 10.0]
+------Sat Nov 01 07:42:11 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[0.25, 39.25, 175.75, 0.25]
+Sat Nov 01 07:42:11 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Si3N4_new, TY_Si_new]	bestThk:	null
+------Sat Nov 01 07:46:37 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[10.0, 166.0, 107.5, 107.5]
+------Sat Nov 01 07:51:02 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[-9.5, 146.5, 107.5, 127.0]
+Sat Nov 01 07:51:02 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	null
+------Sat Nov 01 07:55:29 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[107.5, 10.0, 10.0, 10.0]
+------Sat Nov 01 07:59:59 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[78.25, 0.25, 68.5, 10.0]
+Sat Nov 01 07:59:59 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	null
+------Sat Nov 01 08:04:38 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[10.0, 185.5, 88.0, 127.0]
+------Sat Nov 01 08:09:06 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[10.0, 175.75, 78.25, 127.0]
+------Sat Nov 01 08:13:47 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[-9.5, 151.375, 83.125, 127.0]
+Sat Nov 01 08:13:47 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	null
+------Sat Nov 01 08:18:20 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_Si_new]	bestThk:	[10.0, 185.5, 127.0, 10.0]
+------Sat Nov 01 08:22:45 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_Si_new]	bestThk:	[0.25, 166.0, 127.0, 10.0]
+Sat Nov 01 08:22:45 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_Si_new]	bestThk:	null
+------Sat Nov 01 08:27:08 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[29.5, 29.5, 185.5, 49.0]
+------Sat Nov 01 08:31:29 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[39.25, 29.5, 136.75, 127.0]
+------Sat Nov 01 08:35:51 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[39.25, 24.625, 88.0, 156.25]
+------Sat Nov 01 08:40:11 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[41.6875, 27.0625, 83.125, 173.3125]
+------Sat Nov 01 08:44:34 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[40.46875, 25.84375, 78.25, 172.09375]
+------Sat Nov 01 08:48:57 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[41.078125, 25.84375, 72.765625, 177.578125]
+------Sat Nov 01 08:53:18 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[41.3828125, 25.84375, 69.71875, 180.3203125]
+------Sat Nov 01 08:57:38 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[41.3828125, 25.84375, 68.1953125, 181.69140625]
+------Sat Nov 01 09:02:00 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[41.53515625, 25.84375, 67.662109375, 182.376953125]
+Sat Nov 01 09:02:00 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[41.53515625, 25.84375, 67.662109375, 182.376953125]	R:	3.446660154859331E-5	bw:	291.0
+------Sat Nov 01 09:06:25 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[29.5, 29.5, 205.0, 10.0]
+------Sat Nov 01 09:10:48 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[29.5, 29.5, 214.75, 0.25]
+Sat Nov 01 09:10:48 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	null
+------Sat Nov 01 09:15:12 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[10.0, 185.5, 127.0, 49.0]
+------Sat Nov 01 09:19:43 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[10.0, 185.5, 107.5, 58.75]
+------Sat Nov 01 09:24:13 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[10.0, 185.5, 102.625, 63.625]
+------Sat Nov 01 09:28:42 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[10.0, 183.0625, 105.0625, 61.1875]
+------Sat Nov 01 09:33:11 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[10.0, 184.28125, 103.84375, 62.40625]
+------Sat Nov 01 09:37:37 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[10.609375, 184.890625, 106.28125, 60.578125]
+------Sat Nov 01 09:42:00 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[10.609375, 184.5859375, 106.28125, 60.578125]
+------Sat Nov 01 09:46:22 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[10.9140625, 184.890625, 107.04296875, 59.96875]
+------Sat Nov 01 09:50:44 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[10.837890625, 184.73828125, 106.814453125, 60.12109375]
+Sat Nov 01 09:50:44 CST 2025	[TY_SiO2_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[10.837890625, 184.73828125, 106.814453125, 60.12109375]	R:	1.5403832234546743E-4	bw:	208.0
+------Sat Nov 01 09:55:07 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	[10.0, 49.0, 10.0, 185.5]
+------Sat Nov 01 09:59:28 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	[-58.25, 117.25, 29.5, 244.0]
+Sat Nov 01 09:59:28 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	null
+------Sat Nov 01 10:03:57 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[10.0, 322.0, 49.0, 185.5]
+------Sat Nov 01 10:08:24 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[0.25, 263.5, -48.5, 117.25]
+Sat Nov 01 10:08:24 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	null
+------Sat Nov 01 10:12:49 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[10.0, 322.0, 49.0, 185.5]
+------Sat Nov 01 10:17:14 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[-9.5, 351.25, 49.0, 185.5]
+Sat Nov 01 10:17:14 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 10:21:40 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[10.0, 29.5, 29.5, 224.5]
+------Sat Nov 01 10:26:03 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[-58.25, 107.5, 39.25, 234.25]
+Sat Nov 01 10:26:03 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	null
+------Sat Nov 01 10:30:27 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si_new]	bestThk:	[49.0, 29.5, 49.0, 10.0]
+------Sat Nov 01 10:34:48 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si_new]	bestThk:	[10.0, 97.75, 127.0, 0.25]
+Sat Nov 01 10:34:48 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si_new]	bestThk:	null
+------Sat Nov 01 10:39:16 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[10.0, 68.5, 49.0, 49.0]
+------Sat Nov 01 10:43:42 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[10.0, 97.75, 127.0, 0.25]
+Sat Nov 01 10:43:42 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	null
+------Sat Nov 01 10:48:11 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[10.0, 88.0, 68.5, 29.5]
+------Sat Nov 01 10:52:37 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[10.0, 97.75, 127.0, 0.25]
+Sat Nov 01 10:52:37 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 10:57:02 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[10.0, 88.0, 49.0, 68.5]
+------Sat Nov 01 11:01:24 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[10.0, 97.75, 127.0, 0.25]
+Sat Nov 01 11:01:24 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	null
+------Sat Nov 01 11:05:49 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[107.5, 10.0, 10.0, 10.0]
+------Sat Nov 01 11:10:12 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[78.25, 19.75, 58.75, 0.25]
+Sat Nov 01 11:10:12 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new]	bestThk:	null
+------Sat Nov 01 11:14:34 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[10.0, 88.0, 10.0, 127.0]
+------Sat Nov 01 11:18:56 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[10.0, 117.25, -19.25, 127.0]
+Sat Nov 01 11:18:56 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	null
+------Sat Nov 01 11:23:18 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[68.5, 10.0, 68.5, 10.0]
+------Sat Nov 01 11:27:40 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[78.25, 49.0, 39.25, -9.5]
+Sat Nov 01 11:27:40 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	null
+------Sat Nov 01 11:32:06 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[29.5, 49.0, 10.0, 107.5]
+------Sat Nov 01 11:36:27 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[10.0, -19.25, 97.75, 117.25]
+Sat Nov 01 11:36:27 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	null
+------Sat Nov 01 11:40:54 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3, TY_Si_new]	bestThk:	[29.5, 10.0, 88.0, 10.0]
+------Sat Nov 01 11:45:15 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3, TY_Si_new]	bestThk:	[10.0, 78.25, 117.25, 0.25]
+Sat Nov 01 11:45:15 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3, TY_Si_new]	bestThk:	null
+------Sat Nov 01 11:49:39 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[10.0, 88.0, 29.5, 107.5]
+------Sat Nov 01 11:53:59 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[10.0, 97.75, 10.0, 117.25]
+------Sat Nov 01 11:58:25 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[-4.625, 117.25, 5.125, 122.125]
+Sat Nov 01 11:58:25 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new]	bestThk:	null
+------Sat Nov 01 12:03:02 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[29.5, 49.0, 68.5, 29.5]
+------Sat Nov 01 12:07:34 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[-9.5, 97.75, 107.5, 10.0]
+Sat Nov 01 12:07:34 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	null
+------Sat Nov 01 12:12:10 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[29.5, 49.0, 68.5, 29.5]
+------Sat Nov 01 12:16:50 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[-9.5, 97.75, 107.5, 10.0]
+Sat Nov 01 12:16:50 CST 2025	[TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 12:21:42 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Si_new, TY_SiO2_new]	bestThk:	[10.0, 49.0, 10.0, 185.5]
+------Sat Nov 01 12:26:06 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Si_new, TY_SiO2_new]	bestThk:	[68.5, -29.0, 29.5, 234.25]
+Sat Nov 01 12:26:06 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Si_new, TY_SiO2_new]	bestThk:	null
+------Sat Nov 01 12:30:32 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[10.0, 302.5, 107.5, 146.5]
+------Sat Nov 01 12:34:55 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[39.25, 263.5, 107.5, 146.5]
+------Sat Nov 01 12:39:18 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[24.625, 278.125, 112.375, 141.625]
+------Sat Nov 01 12:43:42 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[7.5625, 297.625, 114.8125, 139.1875]
+------Sat Nov 01 12:48:07 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[8.78125, 297.625, 114.8125, 140.40625]
+------Sat Nov 01 12:52:30 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[5.125, 301.890625, 115.421875, 139.796875]
+------Sat Nov 01 12:56:53 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[2.9921875, 304.6328125, 115.1171875, 139.796875]
+------Sat Nov 01 13:01:17 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[1.92578125, 306.00390625, 115.26953125, 139.64453125]
+Sat Nov 01 13:01:17 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	null
+------Sat Nov 01 13:05:41 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[10.0, 322.0, 49.0, 185.5]
+------Sat Nov 01 13:10:04 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[0.25, 341.5, 49.0, 185.5]
+Sat Nov 01 13:10:04 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 13:14:29 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	[10.0, 29.5, 29.5, 224.5]
+------Sat Nov 01 13:18:54 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	[-68.0, 107.5, 39.25, 224.5]
+Sat Nov 01 13:18:54 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	null
+------Sat Nov 01 13:23:23 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	[49.0, 29.5, 49.0, 10.0]
+------Sat Nov 01 13:27:56 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	[10.0, 107.5, 107.5, 0.25]
+Sat Nov 01 13:27:56 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	null
+------Sat Nov 01 13:32:27 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[29.5, 88.0, 68.5, 10.0]
+------Sat Nov 01 13:36:55 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[0.25, 117.25, 117.25, 0.25]
+Sat Nov 01 13:36:55 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	null
+------Sat Nov 01 13:41:17 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[10.0, 88.0, 68.5, 29.5]
+------Sat Nov 01 13:45:36 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[0.25, 117.25, 117.25, 0.25]
+Sat Nov 01 13:45:36 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 13:49:58 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[10.0, 107.5, 68.5, 29.5]
+------Sat Nov 01 13:54:18 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[-9.5, 127.0, 107.5, 10.0]
+Sat Nov 01 13:54:18 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new, TY_Al2O3]	bestThk:	null
+------Sat Nov 01 13:58:42 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[107.5, 10.0, 10.0, 10.0]
+------Sat Nov 01 14:03:05 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[78.25, 78.25, 0.25, 0.25]
+Sat Nov 01 14:03:05 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	null
+------Sat Nov 01 14:07:31 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[10.0, 10.0, 88.0, 127.0]
+------Sat Nov 01 14:11:54 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[10.0, 10.0, 88.0, 127.0]
+------Sat Nov 01 14:16:15 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[-4.625, 19.75, 97.75, 127.0]
+Sat Nov 01 14:16:15 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	null
+------Sat Nov 01 14:20:40 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[68.5, 10.0, 10.0, 68.5]
+------Sat Nov 01 14:25:04 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[68.5, 49.0, -68.0, 107.5]
+Sat Nov 01 14:25:04 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 14:29:26 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[29.5, 29.5, 29.5, 107.5]
+------Sat Nov 01 14:33:48 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[10.0, 68.5, 10.0, 117.25]
+------Sat Nov 01 14:38:09 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[0.25, 34.375, 53.875, 122.125]
+Sat Nov 01 14:38:09 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	null
+------Sat Nov 01 14:42:56 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Al2O3, TY_Si_new]	bestThk:	[29.5, 10.0, 88.0, 10.0]
+------Sat Nov 01 14:47:40 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Al2O3, TY_Si_new]	bestThk:	[10.0, 78.25, 117.25, 0.25]
+Sat Nov 01 14:47:40 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Al2O3, TY_Si_new]	bestThk:	null
+------Sat Nov 01 14:52:13 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[10.0, 88.0, 29.5, 107.5]
+------Sat Nov 01 14:56:41 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[0.25, 117.25, -9.5, 127.0]
+Sat Nov 01 14:56:41 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Al2O3, TY_SiO2_new]	bestThk:	null
+------Sat Nov 01 15:01:06 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[29.5, 49.0, 68.5, 29.5]
+------Sat Nov 01 15:05:28 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[10.0, 78.25, 117.25, 0.25]
+Sat Nov 01 15:05:28 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	null
+------Sat Nov 01 15:09:51 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[10.0, 88.0, 88.0, 10.0]
+------Sat Nov 01 15:14:10 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[10.0, 78.25, 117.25, 0.25]
+Sat Nov 01 15:14:10 CST 2025	[TY_SiO2_new, TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 15:18:36 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[49.0, 10.0, 29.5, 283.0]
+------Sat Nov 01 15:22:58 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[68.5, -19.25, 29.5, 263.5]
+Sat Nov 01 15:22:58 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	null
+------Sat Nov 01 15:27:25 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si_new, TY_Ta2O5_new]	bestThk:	[88.0, 29.5, 10.0, 10.0]
+------Sat Nov 01 15:31:46 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si_new, TY_Ta2O5_new]	bestThk:	[107.5, -38.75, 0.25, 88.0]
+Sat Nov 01 15:31:46 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si_new, TY_Ta2O5_new]	bestThk:	null
+------Sat Nov 01 15:36:17 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	[88.0, 29.5, 10.0, 10.0]
+------Sat Nov 01 15:40:38 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	[88.0, -19.25, 0.25, 88.0]
+Sat Nov 01 15:40:38 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 15:45:03 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[10.0, 29.5, 10.0, 166.0]
+------Sat Nov 01 15:49:27 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[-29.0, 58.75, 29.5, 214.75]
+Sat Nov 01 15:49:27 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	null
+------Sat Nov 01 15:53:53 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_SiO2_new, TY_Si_new]	bestThk:	[29.5, 88.0, 10.0, 10.0]
+------Sat Nov 01 15:58:14 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_SiO2_new, TY_Si_new]	bestThk:	[10.0, 117.25, 0.25, 10.0]
+Sat Nov 01 15:58:14 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_SiO2_new, TY_Si_new]	bestThk:	null
+------Sat Nov 01 16:02:49 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[29.5, 49.0, 10.0, 68.5]
+------Sat Nov 01 16:07:17 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[117.25, -29.0, -19.25, 88.0]
+Sat Nov 01 16:07:17 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	null
+------Sat Nov 01 16:11:49 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[10.0, 10.0, 49.0, 88.0]
+------Sat Nov 01 16:16:35 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[-29.0, -29.0, 136.75, 78.25]
+Sat Nov 01 16:16:35 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_SiO2_new, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 16:21:02 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_SiO2_new, TY_Al2O3]	bestThk:	[10.0, 10.0, 10.0, 166.0]
+------Sat Nov 01 16:25:22 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_SiO2_new, TY_Al2O3]	bestThk:	[-29.0, -87.5, 97.75, 224.5]
+Sat Nov 01 16:25:22 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_SiO2_new, TY_Al2O3]	bestThk:	null
+------Sat Nov 01 16:29:45 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new, TY_Si_new]	bestThk:	[107.5, 10.0, 10.0, 10.0]
+------Sat Nov 01 16:34:08 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new, TY_Si_new]	bestThk:	[127.0, -68.0, 97.75, 0.25]
+Sat Nov 01 16:34:08 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new, TY_Si_new]	bestThk:	null
+------Sat Nov 01 16:38:34 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[10.0, 10.0, 88.0, 127.0]
+------Sat Nov 01 16:42:56 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[10.0, 0.25, 97.75, 127.0]
+Sat Nov 01 16:42:56 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	null
+------Sat Nov 01 16:47:19 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[68.5, 10.0, 29.5, 49.0]
+------Sat Nov 01 16:51:39 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[117.25, -58.25, 107.5, -9.5]
+Sat Nov 01 16:51:39 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 16:56:01 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[29.5, 10.0, 49.0, 107.5]
+------Sat Nov 01 17:00:21 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[19.75, -9.5, 78.25, 117.25]
+Sat Nov 01 17:00:21 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	null
+------Sat Nov 01 17:04:48 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si3N4_new, TY_Si_new]	bestThk:	[107.5, 10.0, 10.0, 10.0]
+------Sat Nov 01 17:09:12 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si3N4_new, TY_Si_new]	bestThk:	[107.5, -48.5, 97.75, 0.25]
+Sat Nov 01 17:09:12 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si3N4_new, TY_Si_new]	bestThk:	null
+------Sat Nov 01 17:13:37 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[10.0, 10.0, 88.0, 127.0]
+------Sat Nov 01 17:17:59 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[10.0, -19.25, 127.0, 117.25]
+Sat Nov 01 17:17:59 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	null
+------Sat Nov 01 17:22:26 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[49.0, 29.5, 68.5, 10.0]
+------Sat Nov 01 17:26:53 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[107.5, -48.5, 58.75, 39.25]
+Sat Nov 01 17:26:53 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	null
+------Sat Nov 01 17:31:21 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si3N4_new, TY_Al2O3]	bestThk:	[29.5, 10.0, 49.0, 107.5]
+------Sat Nov 01 17:35:51 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si3N4_new, TY_Al2O3]	bestThk:	[10.0, 0.25, 78.25, 117.25]
+Sat Nov 01 17:35:51 CST 2025	[TY_SiO2_new, TY_Al2O3, TY_Si3N4_new, TY_Al2O3]	bestThk:	null
+------Sat Nov 01 17:40:20 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Si_new]	bestThk:	[29.5, 29.5, 146.5, 10.0]
+------Sat Nov 01 17:44:44 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Si_new]	bestThk:	[58.75, 19.75, 234.25, 0.25]
+Sat Nov 01 17:44:44 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Si_new]	bestThk:	null
+------Sat Nov 01 17:49:10 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[341.5, 49.0, 49.0, 127.0]
+------Sat Nov 01 17:53:34 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[253.75, -48.5, -38.75, 156.25]
+Sat Nov 01 17:53:34 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	null
+------Sat Nov 01 17:57:56 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[302.5, 127.0, 29.5, 107.5]
+------Sat Nov 01 18:02:21 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[302.5, 127.0, 29.5, 107.5]
+------Sat Nov 01 18:06:45 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[302.5, 117.25, -4.625, 146.5]
+Sat Nov 01 18:06:45 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 18:11:09 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[49.0, 29.5, 10.0, 224.5]
+------Sat Nov 01 18:15:30 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[49.0, 29.5, 97.75, 127.0]
+------Sat Nov 01 18:19:51 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[49.0, 24.625, 131.875, 83.125]
+------Sat Nov 01 18:24:13 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[51.4375, 24.625, 148.9375, 70.9375]
+------Sat Nov 01 18:28:36 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[52.65625, 24.625, 159.90625, 63.625]
+------Sat Nov 01 18:32:59 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[53.265625, 24.015625, 165.390625, 58.140625]
+------Sat Nov 01 18:37:25 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[53.265625, 23.7109375, 168.1328125, 55.09375]
+------Sat Nov 01 18:41:52 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[53.72265625, 23.86328125, 169.50390625, 54.7890625]
+------Sat Nov 01 18:46:24 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[53.798828125, 23.787109375, 170.189453125, 54.103515625]
+Sat Nov 01 18:46:24 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[53.798828125, 23.787109375, 170.189453125, 54.103515625]	R:	4.348964610838549E-5	bw:	253.0
+------Sat Nov 01 18:51:03 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[322.0, 68.5, 127.0, 10.0]
+------Sat Nov 01 18:55:32 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[302.5, 117.25, 136.75, 0.25]
+Sat Nov 01 18:55:32 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	null
+------Sat Nov 01 19:00:02 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[10.0, 166.0, 107.5, 127.0]
+------Sat Nov 01 19:04:25 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[-9.5, 146.5, 107.5, 127.0]
+Sat Nov 01 19:04:25 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	null
+------Sat Nov 01 19:08:53 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[322.0, 49.0, 166.0, 10.0]
+------Sat Nov 01 19:13:23 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[263.5, -48.5, 97.75, 19.75]
+Sat Nov 01 19:13:23 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 19:17:50 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[302.5, 127.0, 88.0, 88.0]
+------Sat Nov 01 19:22:15 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[302.5, 117.25, 117.25, 39.25]
+------Sat Nov 01 19:26:41 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[302.5, 117.25, 117.25, 39.25]
+------Sat Nov 01 19:31:05 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[302.5, 119.6875, 107.5, 56.3125]
+------Sat Nov 01 19:35:31 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[302.5, 118.46875, 113.59375, 46.5625]
+------Sat Nov 01 19:39:58 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[301.890625, 119.078125, 110.546875, 51.4375]
+------Sat Nov 01 19:44:22 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[301.890625, 119.3828125, 109.0234375, 54.1796875]
+------Sat Nov 01 19:48:45 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[301.890625, 119.53515625, 108.56640625, 54.94140625]
+------Sat Nov 01 19:53:12 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[301.890625, 119.611328125, 108.26171875, 55.3984375]
+Sat Nov 01 19:53:12 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[301.890625, 119.611328125, 108.26171875, 55.3984375]	R:	7.383929277342527E-4	bw:	0.0
+------Sat Nov 01 19:57:40 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[322.0, 68.5, 127.0, 10.0]
+------Sat Nov 01 20:02:07 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[341.5, 49.0, 185.5, 0.25]
+Sat Nov 01 20:02:07 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new, TY_Si_new]	bestThk:	null
+------Sat Nov 01 20:06:40 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[10.0, 166.0, 107.5, 127.0]
+------Sat Nov 01 20:11:13 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[0.25, 166.0, 117.25, 117.25]
+Sat Nov 01 20:11:13 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	null
+------Sat Nov 01 20:15:43 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[322.0, 49.0, 10.0, 166.0]
+------Sat Nov 01 20:20:14 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[263.5, -48.5, -77.75, 195.25]
+Sat Nov 01 20:20:14 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	null
+------Sat Nov 01 20:24:40 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[10.0, 166.0, 88.0, 107.5]
+------Sat Nov 01 20:29:03 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[-19.25, 146.5, 68.5, 146.5]
+Sat Nov 01 20:29:03 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	null
+------Sat Nov 01 20:33:28 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_Si_new]	bestThk:	[10.0, 341.5, 127.0, 10.0]
+------Sat Nov 01 20:37:54 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_Si_new]	bestThk:	[-9.5, 322.0, 127.0, 10.0]
+Sat Nov 01 20:37:54 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_Si_new]	bestThk:	null
+------Sat Nov 01 20:42:17 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[49.0, 29.5, 185.5, 68.5]
+------Sat Nov 01 20:46:40 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[49.0, 19.75, 88.0, 146.5]
+------Sat Nov 01 20:51:02 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[53.875, 19.75, 49.0, 190.375]
+------Sat Nov 01 20:55:27 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[56.3125, 22.1875, 58.75, 195.25]
+------Sat Nov 01 20:59:52 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[55.09375, 20.96875, 46.5625, 198.90625]
+------Sat Nov 01 21:04:18 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[56.3125, 21.578125, 45.34375, 203.78125]
+------Sat Nov 01 21:08:43 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[55.703125, 21.2734375, 42.296875, 204.0859375]
+------Sat Nov 01 21:13:08 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[56.16015625, 21.42578125, 42.14453125, 205.45703125]
+------Sat Nov 01 21:17:34 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[56.16015625, 21.42578125, 41.3828125, 206.06640625]
+Sat Nov 01 21:17:34 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[56.16015625, 21.42578125, 41.3828125, 206.06640625]	R:	3.069156930572159E-5	bw:	294.0
+------Sat Nov 01 21:22:03 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[302.5, 127.0, 49.0, 88.0]
+------Sat Nov 01 21:26:36 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[302.5, 127.0, 49.0, 88.0]
+------Sat Nov 01 21:31:04 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[302.5, 122.125, 34.375, 102.625]
+------Sat Nov 01 21:35:36 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[302.5, 119.6875, 22.1875, 114.8125]
+------Sat Nov 01 21:40:09 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[302.5, 122.125, 33.15625, 102.625]
+------Sat Nov 01 21:44:34 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[301.890625, 123.34375, 37.421875, 98.359375]
+------Sat Nov 01 21:48:57 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[301.5859375, 123.953125, 39.859375, 95.921875]
+------Sat Nov 01 21:53:20 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[301.43359375, 124.2578125, 40.92578125, 95.0078125]
+------Sat Nov 01 21:57:42 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[301.357421875, 124.41015625, 41.53515625, 94.322265625]
+Sat Nov 01 21:57:42 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[301.357421875, 124.41015625, 41.53515625, 94.322265625]	R:	7.584457591276956E-4	bw:	0.0
+------Sat Nov 01 22:02:07 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[302.5, 127.0, 49.0, 88.0]
+------Sat Nov 01 22:06:33 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[302.5, 127.0, 39.25, 97.75]
+------Sat Nov 01 22:10:56 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[302.5, 117.25, 0.25, 141.625]
+Sat Nov 01 22:10:56 CST 2025	[TY_Ta2O5_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 22:15:22 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	[146.5, 322.0, 10.0, 302.5]
+------Sat Nov 01 22:19:48 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	[156.25, 292.75, 10.0, 302.5]
+------Sat Nov 01 22:24:14 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	[156.25, 292.75, 10.0, 302.5]
+------Sat Nov 01 22:28:39 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	[153.8125, 300.0625, 10.0, 302.5]
+------Sat Nov 01 22:33:02 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	[161.125, 287.875, 11.21875, 309.8125]
+------Sat Nov 01 22:37:27 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	[158.6875, 293.359375, 10.609375, 307.375]
+------Sat Nov 01 22:41:56 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	[160.515625, 290.3125, 10.9140625, 309.203125]
+------Sat Nov 01 22:46:24 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	[160.97265625, 288.7890625, 10.9140625, 309.35546875]
+------Sat Nov 01 22:50:54 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	[160.66796875, 289.3984375, 10.837890625, 309.05078125]
+Sat Nov 01 22:50:54 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	[160.66796875, 289.3984375, 10.837890625, 309.05078125]	R:	2.9812209363905506E-4	bw:	190.0
+------Sat Nov 01 22:55:24 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[68.5, 380.5, 127.0, 127.0]
+------Sat Nov 01 22:59:53 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[78.25, 400.0, 39.25, 195.25]
+------Sat Nov 01 23:04:18 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[97.75, 385.375, 34.375, 205.0]
+------Sat Nov 01 23:08:46 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[90.4375, 392.6875, 36.8125, 200.125]
+------Sat Nov 01 23:13:10 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[94.09375, 389.03125, 35.59375, 201.34375]
+------Sat Nov 01 23:17:35 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[94.703125, 389.03125, 35.59375, 201.953125]
+------Sat Nov 01 23:21:58 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[94.3984375, 389.03125, 35.59375, 201.953125]
+------Sat Nov 01 23:26:22 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[95.0078125, 388.26953125, 35.44140625, 202.10546875]
+------Sat Nov 01 23:30:44 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[94.779296875, 388.57421875, 35.517578125, 202.029296875]
+Sat Nov 01 23:30:44 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[94.779296875, 388.57421875, 35.517578125, 202.029296875]	R:	9.95117182181472E-4	bw:	0.0
+------Sat Nov 01 23:35:08 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[322.0, 10.0, 49.0, 185.5]
+------Sat Nov 01 23:39:35 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[224.5, 39.25, -38.75, 117.25]
+Sat Nov 01 23:39:35 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	null
+------Sat Nov 01 23:44:03 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	[29.5, 10.0, 29.5, 224.5]
+------Sat Nov 01 23:48:30 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	[39.25, 0.25, 29.5, 224.5]
+Sat Nov 01 23:48:30 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	null
+------Sat Nov 01 23:52:56 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[10.0, 107.5, 10.0, 10.0]
+------Sat Nov 01 23:57:17 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[97.75, 68.5, 29.5, 0.25]
+Sat Nov 01 23:57:17 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	null
+------Sun Nov 02 00:01:42 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[185.5, 166.0, 107.5, 263.5]
+------Sun Nov 02 00:06:12 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[175.75, 205.0, 88.0, 273.25]
+------Sun Nov 02 00:10:46 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[170.875, 229.375, 83.125, 278.125]
+------Sun Nov 02 00:15:34 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[166.0, 244.0, 80.6875, 278.125]
+------Sun Nov 02 00:20:10 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[166.0, 242.78125, 80.6875, 276.90625]
+------Sun Nov 02 00:24:40 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[164.78125, 247.046875, 80.078125, 276.90625]
+------Sun Nov 02 00:29:06 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[164.171875, 249.1796875, 79.46875, 276.6015625]
+------Sun Nov 02 00:33:32 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[163.71484375, 250.55078125, 79.31640625, 276.44921875]
+------Sun Nov 02 00:38:02 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[163.5625, 251.236328125, 79.240234375, 276.44921875]
+Sun Nov 02 00:38:02 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[163.5625, 251.236328125, 79.240234375, 276.44921875]	R:	2.883793755205113E-4	bw:	190.0
+------Sun Nov 02 00:42:29 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[68.5, 49.0, 10.0, 49.0]
+------Sun Nov 02 00:46:52 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[117.25, 127.0, -87.5, 88.0]
+Sun Nov 02 00:46:52 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	null
+------Sun Nov 02 00:51:19 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[146.5, 244.0, 166.0, 185.5]
+------Sun Nov 02 00:55:46 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[156.25, 234.25, 166.0, 195.25]
+------Sun Nov 02 01:00:12 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[161.125, 219.625, 161.125, 200.125]
+------Sun Nov 02 01:04:36 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[158.6875, 224.5, 158.6875, 200.125]
+------Sun Nov 02 01:09:05 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[158.6875, 224.5, 158.6875, 200.125]
+------Sun Nov 02 01:13:33 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[159.296875, 222.0625, 159.90625, 199.515625]
+------Sun Nov 02 01:18:00 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[159.296875, 222.3671875, 158.9921875, 200.125]
+------Sun Nov 02 01:22:25 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[159.296875, 222.3671875, 159.44921875, 199.8203125]
+------Sun Nov 02 01:27:00 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[159.296875, 222.3671875, 159.296875, 199.896484375]
+Sun Nov 02 01:27:00 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[159.296875, 222.3671875, 159.296875, 199.896484375]	R:	6.396959287942727E-4	bw:	0.0
+------Sun Nov 02 01:31:40 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[10.0, 107.5, 10.0, 10.0]
+------Sun Nov 02 01:36:13 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[97.75, 68.5, 29.5, 0.25]
+Sun Nov 02 01:36:13 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_Si_new]	bestThk:	null
+------Sun Nov 02 01:40:50 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[146.5, 302.5, 88.0, 263.5]
+------Sun Nov 02 01:45:16 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[175.75, 205.0, 97.75, 273.25]
+------Sun Nov 02 01:49:41 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[166.0, 239.125, 88.0, 273.25]
+------Sun Nov 02 01:54:09 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[163.5625, 248.875, 85.5625, 273.25]
+------Sun Nov 02 01:58:35 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[161.125, 257.40625, 84.34375, 272.03125]
+------Sun Nov 02 02:03:02 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[161.734375, 254.96875, 84.34375, 272.640625]
+------Sun Nov 02 02:07:29 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[161.734375, 254.96875, 84.34375, 272.640625]
+------Sun Nov 02 02:11:57 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[161.58203125, 255.578125, 84.34375, 272.640625]
+------Sun Nov 02 02:16:24 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[161.4296875, 256.111328125, 84.267578125, 272.564453125]
+Sun Nov 02 02:16:24 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[161.4296875, 256.111328125, 84.267578125, 272.564453125]	R:	2.8614520289538904E-4	bw:	190.0
+------Sun Nov 02 02:20:52 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[68.5, 49.0, 49.0, 10.0]
+------Sun Nov 02 02:25:17 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[107.5, 107.5, 29.5, -19.25]
+Sun Nov 02 02:25:17 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	null
+------Sun Nov 02 02:29:44 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[166.0, 224.5, 166.0, 205.0]
+------Sun Nov 02 02:34:09 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[156.25, 224.5, 166.0, 195.25]
+------Sun Nov 02 02:38:36 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[156.25, 224.5, 156.25, 200.125]
+------Sun Nov 02 02:43:05 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[158.6875, 219.625, 158.6875, 200.125]
+------Sun Nov 02 02:47:36 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[158.6875, 220.84375, 161.125, 198.90625]
+------Sun Nov 02 02:52:09 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[158.6875, 221.453125, 160.515625, 199.515625]
+------Sun Nov 02 02:56:40 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[158.3828125, 221.1484375, 160.8203125, 198.90625]
+------Sun Nov 02 03:01:14 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[158.3828125, 221.30078125, 160.8203125, 198.90625]
+------Sun Nov 02 03:05:39 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[158.458984375, 221.30078125, 160.744140625, 199.05859375]
+Sun Nov 02 03:05:39 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[158.458984375, 221.30078125, 160.744140625, 199.05859375]	R:	0.0015026471612019957	bw:	0.0
+------Sun Nov 02 03:10:06 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3, TY_Si_new]	bestThk:	[10.0, 29.5, 88.0, 10.0]
+------Sun Nov 02 03:14:31 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3, TY_Si_new]	bestThk:	[-87.5, 117.25, 146.5, 0.25]
+Sun Nov 02 03:14:31 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3, TY_Si_new]	bestThk:	null
+------Sun Nov 02 03:19:02 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[107.5, 10.0, 29.5, 88.0]
+------Sun Nov 02 03:23:26 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[97.75, -87.5, 107.5, 136.75]
+Sun Nov 02 03:23:26 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3, TY_SiO2_new]	bestThk:	null
+------Sun Nov 02 03:27:53 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[107.5, 88.0, 10.0, 10.0]
+------Sun Nov 02 03:32:16 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[107.5, 88.0, 49.0, -9.5]
+Sun Nov 02 03:32:16 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	null
+------Sun Nov 02 03:36:42 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[107.5, 88.0, 10.0, 10.0]
+------Sun Nov 02 03:41:06 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[107.5, 136.75, -38.75, 19.75]
+Sun Nov 02 03:41:06 CST 2025	[TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	null
+------Sun Nov 02 03:45:34 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_SiO2_new]	bestThk:	[10.0, 49.0, 10.0, 185.5]
+------Sun Nov 02 03:50:00 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_SiO2_new]	bestThk:	[88.0, -29.0, 19.75, 234.25]
+Sun Nov 02 03:50:00 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_SiO2_new]	bestThk:	null
+------Sun Nov 02 03:54:30 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[88.0, 263.5, 49.0, 185.5]
+------Sun Nov 02 03:58:56 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[166.0, 175.75, 49.0, 185.5]
+------Sun Nov 02 04:03:25 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[166.0, 175.75, 49.0, 185.5]
+------Sun Nov 02 04:08:01 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[161.125, 178.1875, 49.0, 183.0625]
+------Sun Nov 02 04:12:35 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[172.09375, 167.21875, 50.21875, 183.0625]
+------Sun Nov 02 04:17:09 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[167.828125, 171.484375, 49.609375, 183.0625]
+------Sun Nov 02 04:21:45 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[165.390625, 174.2265625, 49.609375, 183.0625]
+------Sun Nov 02 04:26:14 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[164.171875, 175.4453125, 49.76171875, 183.0625]
+------Sun Nov 02 04:30:43 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[163.486328125, 176.130859375, 49.76171875, 182.986328125]
+Sun Nov 02 04:30:43 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[163.486328125, 176.130859375, 49.76171875, 182.986328125]	R:	7.563103121428354E-4	bw:	0.0
+------Sun Nov 02 04:35:11 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[263.5, 68.5, 49.0, 185.5]
+------Sun Nov 02 04:39:40 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[185.5, 156.25, 49.0, 185.5]
+------Sun Nov 02 04:44:08 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[229.375, 107.5, 49.0, 185.5]
+------Sun Nov 02 04:48:34 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[251.3125, 85.5625, 49.0, 185.5]
+------Sun Nov 02 04:53:03 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[242.78125, 95.3125, 49.0, 185.5]
+------Sun Nov 02 04:57:31 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[237.90625, 100.796875, 49.0, 186.109375]
+------Sun Nov 02 05:02:00 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[238.2109375, 100.1875, 49.0, 185.8046875]
+------Sun Nov 02 05:06:27 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[237.6015625, 100.796875, 49.0, 185.95703125]
+------Sun Nov 02 05:10:56 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[236.916015625, 101.482421875, 48.923828125, 185.95703125]
+Sun Nov 02 05:10:56 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[236.916015625, 101.482421875, 48.923828125, 185.95703125]	R:	7.567782812152225E-4	bw:	0.0
+------Sun Nov 02 05:15:26 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	[10.0, 29.5, 29.5, 224.5]
+------Sun Nov 02 05:20:07 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	[19.75, 19.75, 29.5, 224.5]
+------Sun Nov 02 05:24:43 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	[14.875, 24.625, 29.5, 224.5]
+------Sun Nov 02 05:29:24 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	[14.875, 24.625, 29.5, 224.5]
+------Sun Nov 02 05:34:01 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	[2.6875, 34.375, 28.28125, 220.84375]
+------Sun Nov 02 05:38:36 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	[8.171875, 28.890625, 28.28125, 220.234375]
+------Sun Nov 02 05:43:11 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	[10.3046875, 26.7578125, 28.28125, 220.234375]
+------Sun Nov 02 05:47:38 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	[10.15234375, 26.91015625, 28.28125, 220.234375]
+------Sun Nov 02 05:52:04 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	[9.390625, 27.595703125, 28.28125, 220.234375]
+Sun Nov 02 05:52:04 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	[9.390625, 27.595703125, 28.28125, 220.234375]	R:	8.632519534562952E-5	bw:	117.0
+------Sun Nov 02 05:56:33 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	[49.0, 10.0, 88.0, 10.0]
+------Sun Nov 02 06:01:00 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	[136.75, -29.0, 127.0, 0.25]
+Sun Nov 02 06:01:00 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	null
+------Sun Nov 02 06:05:26 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[10.0, 107.5, 88.0, 10.0]
+------Sun Nov 02 06:09:52 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[49.0, 68.5, 117.25, 0.25]
+Sun Nov 02 06:09:52 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	null
+------Sun Nov 02 06:14:21 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[10.0, 107.5, 88.0, 10.0]
+------Sun Nov 02 06:18:47 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[-87.5, 195.25, 156.25, -9.5]
+Sun Nov 02 06:18:47 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	null
+------Sun Nov 02 06:23:15 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[68.5, 49.0, 107.5, 10.0]
+------Sun Nov 02 06:27:42 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[146.5, -38.75, 117.25, 10.0]
+Sun Nov 02 06:27:42 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new, TY_Al2O3]	bestThk:	null
+------Sun Nov 02 06:32:10 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[10.0, 88.0, 10.0, 10.0]
+------Sun Nov 02 06:36:36 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[-9.5, 156.25, 10.0, 0.25]
+Sun Nov 02 06:36:36 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	null
+------Sun Nov 02 06:41:06 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[10.0, 49.0, 49.0, 127.0]
+------Sun Nov 02 06:45:33 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[-87.5, 78.25, 117.25, 136.75]
+Sun Nov 02 06:45:33 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	null
+------Sun Nov 02 06:50:06 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[10.0, 127.0, 10.0, 10.0]
+------Sun Nov 02 06:54:39 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[10.0, 146.5, -87.5, 97.75]
+Sun Nov 02 06:54:39 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	null
+------Sun Nov 02 06:59:12 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[68.5, 10.0, 10.0, 127.0]
+------Sun Nov 02 07:03:43 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[97.75, 78.25, -87.5, 127.0]
+Sun Nov 02 07:03:43 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	null
+------Sun Nov 02 07:08:12 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3, TY_Si_new]	bestThk:	[10.0, 10.0, 107.5, 10.0]
+------Sun Nov 02 07:12:42 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3, TY_Si_new]	bestThk:	[-9.5, 97.75, 117.25, 0.25]
+Sun Nov 02 07:12:42 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3, TY_Si_new]	bestThk:	null
+------Sun Nov 02 07:17:12 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[88.0, 10.0, 49.0, 88.0]
+------Sun Nov 02 07:21:36 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[166.0, -48.5, -29.0, 146.5]
+Sun Nov 02 07:21:36 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3, TY_SiO2_new]	bestThk:	null
+------Sun Nov 02 07:26:11 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[10.0, 88.0, 88.0, 10.0]
+------Sun Nov 02 07:30:37 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[-87.5, 156.25, 88.0, 29.5]
+Sun Nov 02 07:30:37 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	null
+------Sun Nov 02 07:35:04 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[29.5, 29.5, 68.5, 49.0]
+------Sun Nov 02 07:39:29 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[97.75, -19.25, 97.75, 19.75]
+Sun Nov 02 07:39:29 CST 2025	[TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	null
+------Sun Nov 02 07:43:56 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[127.0, 263.5, 166.0, 224.5]
+------Sun Nov 02 07:48:23 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[117.25, 283.0, 166.0, 224.5]
+------Sun Nov 02 07:52:54 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[117.25, 273.25, 161.125, 214.75]
+------Sun Nov 02 07:57:21 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[119.6875, 273.25, 163.5625, 222.0625]
+------Sun Nov 02 08:01:49 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[119.6875, 273.25, 163.5625, 223.28125]
+------Sun Nov 02 08:06:16 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[119.078125, 273.25, 162.953125, 220.84375]
+------Sun Nov 02 08:10:49 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[119.078125, 273.5546875, 163.2578125, 222.0625]
+------Sun Nov 02 08:15:36 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[118.92578125, 273.5546875, 163.10546875, 221.60546875]
+------Sun Nov 02 08:20:12 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[119.001953125, 273.630859375, 163.181640625, 221.833984375]
+Sun Nov 02 08:20:12 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[119.001953125, 273.630859375, 163.181640625, 221.833984375]	R:	5.202359754553082E-4	bw:	0.0
+------Sun Nov 02 08:24:40 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_Ta2O5_new]	bestThk:	[283.0, 49.0, 49.0, 185.5]
+------Sun Nov 02 08:29:03 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_Ta2O5_new]	bestThk:	[214.75, 39.25, -38.75, 107.5]
+Sun Nov 02 08:29:03 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_Ta2O5_new]	bestThk:	null
+------Sun Nov 02 08:33:26 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	[302.5, 29.5, 49.0, 185.5]
+------Sun Nov 02 08:37:54 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	[273.25, -9.5, -48.5, 117.25]
+Sun Nov 02 08:37:54 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	null
+------Sun Nov 02 08:42:23 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[29.5, 10.0, 29.5, 224.5]
+------Sun Nov 02 08:46:47 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[39.25, 0.25, 29.5, 224.5]
+Sun Nov 02 08:46:47 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	null
+------Sun Nov 02 08:51:10 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new, TY_Si_new]	bestThk:	[68.5, 10.0, 68.5, 10.0]
+------Sun Nov 02 08:55:33 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new, TY_Si_new]	bestThk:	[117.25, -19.25, 136.75, 0.25]
+Sun Nov 02 08:55:33 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new, TY_Si_new]	bestThk:	null
+------Sun Nov 02 08:59:56 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[107.5, 29.5, 68.5, 10.0]
+------Sun Nov 02 09:04:17 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[107.5, 10.0, 146.5, -9.5]
+Sun Nov 02 09:04:17 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	null
+------Sun Nov 02 09:08:42 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[107.5, 29.5, 68.5, 10.0]
+------Sun Nov 02 09:13:05 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[107.5, 10.0, 146.5, -9.5]
+Sun Nov 02 09:13:05 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new, TY_Si3N4_new]	bestThk:	null
+------Sun Nov 02 09:17:33 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new, TY_Al2O3]	bestThk:	[107.5, 10.0, 107.5, 10.0]
+------Sun Nov 02 09:21:56 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new, TY_Al2O3]	bestThk:	[107.5, 10.0, 107.5, 10.0]
+------Sun Nov 02 09:26:24 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new, TY_Al2O3]	bestThk:	[112.375, -4.625, 131.875, 0.25]
+Sun Nov 02 09:26:24 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new, TY_Al2O3]	bestThk:	null
+------Sun Nov 02 09:30:56 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_Si_new]	bestThk:	[10.0, 107.5, 10.0, 10.0]
+------Sun Nov 02 09:35:24 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_Si_new]	bestThk:	[88.0, 136.75, -9.5, 0.25]
+Sun Nov 02 09:35:24 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_Si_new]	bestThk:	null
+------Sun Nov 02 09:39:54 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[166.0, 185.5, 166.0, 224.5]
+------Sun Nov 02 09:44:25 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[166.0, 185.5, 156.25, 224.5]
+------Sun Nov 02 09:48:49 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[156.25, 205.0, 161.125, 219.625]
+------Sun Nov 02 09:53:12 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[161.125, 195.25, 161.125, 222.0625]
+------Sun Nov 02 09:57:33 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[158.6875, 201.34375, 159.90625, 222.0625]
+------Sun Nov 02 10:01:56 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[158.6875, 201.34375, 159.296875, 222.0625]
+------Sun Nov 02 10:06:16 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[159.296875, 200.125, 159.296875, 222.3671875]
+------Sun Nov 02 10:10:40 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[159.296875, 199.97265625, 159.44921875, 222.21484375]
+------Sun Nov 02 10:15:03 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[159.296875, 200.048828125, 159.296875, 222.291015625]
+Sun Nov 02 10:15:03 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[159.296875, 200.048828125, 159.296875, 222.291015625]	R:	6.452265533539728E-4	bw:	0.0
+------Sun Nov 02 10:19:28 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[88.0, 88.0, 10.0, 10.0]
+------Sun Nov 02 10:23:51 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[88.0, 136.75, 78.25, -87.5]
+Sun Nov 02 10:23:51 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	null
+------Sun Nov 02 10:28:13 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[49.0, 49.0, 29.5, 68.5]
+------Sun Nov 02 10:32:33 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[117.25, 117.25, -68.0, 97.75]
+Sun Nov 02 10:32:33 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	null
+------Sun Nov 02 10:36:57 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_Si_new]	bestThk:	[10.0, 107.5, 10.0, 10.0]
+------Sun Nov 02 10:41:21 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_Si_new]	bestThk:	[88.0, 136.75, -9.5, 0.25]
+Sun Nov 02 10:41:21 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_Si_new]	bestThk:	null
+------Sun Nov 02 10:45:57 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[166.0, 185.5, 166.0, 224.5]
+------Sun Nov 02 10:50:38 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[156.25, 195.25, 166.0, 214.75]
+------Sun Nov 02 10:55:09 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[161.125, 200.125, 161.125, 224.5]
+------Sun Nov 02 10:59:39 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[158.6875, 200.125, 158.6875, 222.0625]
+------Sun Nov 02 11:04:10 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[158.6875, 198.90625, 161.125, 220.84375]
+------Sun Nov 02 11:08:36 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[158.6875, 198.296875, 160.515625, 220.84375]
+------Sun Nov 02 11:13:01 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[158.6875, 198.6015625, 160.8203125, 220.84375]
+------Sun Nov 02 11:17:27 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[158.53515625, 198.90625, 160.515625, 220.84375]
+------Sun Nov 02 11:21:50 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[158.53515625, 198.75390625, 160.515625, 220.767578125]
+Sun Nov 02 11:21:50 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[158.53515625, 198.75390625, 160.515625, 220.767578125]	R:	0.0015035051100216494	bw:	0.0
+------Sun Nov 02 11:26:18 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[88.0, 88.0, 10.0, 10.0]
+------Sun Nov 02 11:30:42 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[88.0, 136.75, -48.5, 39.25]
+Sun Nov 02 11:30:42 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	null
+------Sun Nov 02 11:35:05 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_Al2O3]	bestThk:	[10.0, 49.0, 49.0, 88.0]
+------Sun Nov 02 11:39:24 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_Al2O3]	bestThk:	[-87.5, 49.0, 88.0, 166.0]
+Sun Nov 02 11:39:24 CST 2025	[TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new, TY_Al2O3]	bestThk:	null
+------Sun Nov 02 11:43:48 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Si_new]	bestThk:	[29.5, 29.5, 146.5, 10.0]
+------Sun Nov 02 11:48:10 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Si_new]	bestThk:	[49.0, 19.75, 224.5, 0.25]
+Sun Nov 02 11:48:10 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Si_new]	bestThk:	null
+------Sun Nov 02 11:52:33 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[341.5, 49.0, 49.0, 127.0]
+------Sun Nov 02 11:57:01 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[253.75, -29.0, 78.25, 39.25]
+Sun Nov 02 11:57:01 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	null
+------Sun Nov 02 12:01:32 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[302.5, 127.0, 29.5, 107.5]
+------Sun Nov 02 12:05:58 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[341.5, 49.0, -9.5, 195.25]
+Sun Nov 02 12:05:58 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	null
+------Sun Nov 02 12:10:31 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[29.5, 29.5, 10.0, 205.0]
+------Sun Nov 02 12:15:01 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[49.0, 29.5, 97.75, 127.0]
+------Sun Nov 02 12:19:55 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[49.0, 24.625, 136.75, 78.25]
+------Sun Nov 02 12:24:51 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[51.4375, 24.625, 158.6875, 63.625]
+------Sun Nov 02 12:31:10 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[52.65625, 24.625, 167.21875, 57.53125]
+------Sun Nov 02 12:35:31 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[53.265625, 24.015625, 172.703125, 52.046875]
+------Sun Nov 02 12:39:52 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[53.5703125, 24.015625, 175.4453125, 50.5234375]
+------Sun Nov 02 12:44:13 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[53.5703125, 23.86328125, 176.81640625, 49.0]
+------Sun Nov 02 12:48:34 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[53.5703125, 23.86328125, 177.501953125, 48.466796875]
+Sun Nov 02 12:48:34 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[53.5703125, 23.86328125, 177.501953125, 48.466796875]	R:	3.922395798004844E-5	bw:	262.0
+------Sun Nov 02 12:52:58 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[322.0, 107.5, 107.5, 10.0]
+------Sun Nov 02 12:57:22 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[312.25, 107.5, 185.5, -9.5]
+Sun Nov 02 12:57:22 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	null
+------Sun Nov 02 13:01:46 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[341.5, 49.0, 166.0, 49.0]
+------Sun Nov 02 13:06:10 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[273.25, -48.5, 107.5, 29.5]
+Sun Nov 02 13:06:10 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	null
+------Sun Nov 02 13:10:33 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[341.5, 49.0, 166.0, 10.0]
+------Sun Nov 02 13:14:58 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[273.25, -48.5, 156.25, -38.75]
+Sun Nov 02 13:14:58 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	null
+------Sun Nov 02 13:19:23 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[341.5, 49.0, 166.0, 29.5]
+------Sun Nov 02 13:23:46 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[273.25, -48.5, 97.75, 39.25]
+Sun Nov 02 13:23:46 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	null
+------Sun Nov 02 13:28:19 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[322.0, 107.5, 107.5, 10.0]
+------Sun Nov 02 13:32:51 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[341.5, 49.0, 185.5, 0.25]
+Sun Nov 02 13:32:51 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Si3N4_new, TY_Si_new]	bestThk:	null
+------Sun Nov 02 13:37:22 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[10.0, 166.0, 107.5, 127.0]
+------Sun Nov 02 13:41:53 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[0.25, 166.0, 117.25, 117.25]
+Sun Nov 02 13:41:53 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	null
+------Sun Nov 02 13:46:23 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[341.5, 49.0, 88.0, 88.0]
+------Sun Nov 02 13:50:46 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[341.5, 49.0, 175.75, 10.0]
+------Sun Nov 02 13:55:10 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[341.5, 49.0, 209.875, -24.125]
+Sun Nov 02 13:55:10 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	null
+------Sun Nov 02 13:59:36 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[10.0, 166.0, 88.0, 107.5]
+------Sun Nov 02 14:03:59 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[-19.25, 146.5, 68.5, 146.5]
+Sun Nov 02 14:03:59 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	null
+------Sun Nov 02 14:08:25 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Si_new]	bestThk:	[10.0, 341.5, 127.0, 10.0]
+------Sun Nov 02 14:12:50 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Si_new]	bestThk:	[-9.5, 322.0, 127.0, 10.0]
+Sun Nov 02 14:12:50 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Si_new]	bestThk:	null
+------Sun Nov 02 14:17:15 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[49.0, 29.5, 185.5, 68.5]
+------Sun Nov 02 14:21:37 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[49.0, 19.75, 88.0, 146.5]
+------Sun Nov 02 14:26:01 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[44.125, 24.625, 131.875, 117.25]
+------Sun Nov 02 14:30:22 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[49.0, 24.625, 117.25, 139.1875]
+------Sun Nov 02 14:34:42 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[49.0, 23.40625, 105.0625, 147.71875]
+------Sun Nov 02 14:39:04 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[49.0, 22.796875, 98.96875, 151.984375]
+------Sun Nov 02 14:43:52 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[49.3046875, 22.796875, 96.53125, 154.7265625]
+------Sun Nov 02 14:48:21 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[49.45703125, 22.796875, 95.16015625, 156.09765625]
+------Sun Nov 02 14:52:52 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[49.533203125, 22.720703125, 94.3984375, 156.783203125]
+Sun Nov 02 14:52:52 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[49.533203125, 22.720703125, 94.3984375, 156.783203125]	R:	4.103848965414834E-5	bw:	262.0
+------Sun Nov 02 14:57:24 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[302.5, 127.0, 49.0, 88.0]
+------Sun Nov 02 15:01:56 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[302.5, 127.0, 58.75, 78.25]
+------Sun Nov 02 15:06:26 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[307.375, 117.25, 14.875, 122.125]
+------Sun Nov 02 15:10:51 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[307.375, 119.6875, 22.1875, 114.8125]
+------Sun Nov 02 15:15:13 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[307.375, 122.125, 31.9375, 103.84375]
+------Sun Nov 02 15:19:36 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[306.765625, 122.734375, 34.984375, 100.796875]
+------Sun Nov 02 15:24:00 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[306.4609375, 123.34375, 37.421875, 98.359375]
+------Sun Nov 02 15:28:26 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[306.61328125, 123.0390625, 36.35546875, 99.42578125]
+------Sun Nov 02 15:32:48 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[306.61328125, 122.962890625, 36.05078125, 99.73046875]
+Sun Nov 02 15:32:48 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[306.61328125, 122.962890625, 36.05078125, 99.73046875]	R:	8.112610405039673E-4	bw:	0.0
+------Sun Nov 02 15:37:12 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[302.5, 127.0, 49.0, 88.0]
+------Sun Nov 02 15:41:36 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[302.5, 127.0, 49.0, 88.0]
+------Sun Nov 02 15:46:00 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[302.5, 127.0, 49.0, 88.0]
+------Sun Nov 02 15:50:24 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[304.9375, 124.5625, 36.8125, 100.1875]
+------Sun Nov 02 15:54:49 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[306.15625, 122.125, 27.0625, 111.15625]
+------Sun Nov 02 15:59:12 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[306.765625, 122.125, 25.84375, 112.375]
+------Sun Nov 02 16:03:38 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[306.765625, 122.125, 25.84375, 112.375]
+------Sun Nov 02 16:08:04 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[306.765625, 122.125, 25.84375, 112.375]
+------Sun Nov 02 16:12:44 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[306.765625, 121.97265625, 25.234375, 113.060546875]
+Sun Nov 02 16:12:44 CST 2025	[TY_Si3N4_new, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[306.765625, 121.97265625, 25.234375, 113.060546875]	R:	8.035951248886511E-4	bw:	0.0
+------Sun Nov 02 16:17:27 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	[29.5, 29.5, 29.5, 263.5]
+------Sun Nov 02 16:21:57 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	[78.25, -19.25, 19.75, 244.0]
+Sun Nov 02 16:21:57 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	null
+------Sun Nov 02 16:26:31 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[283.0, 49.0, 49.0, 185.5]
+------Sun Nov 02 16:30:54 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[185.5, 88.0, -29.0, 97.75]
+Sun Nov 02 16:30:54 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	null
+------Sun Nov 02 16:35:17 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[302.5, 29.5, 49.0, 185.5]
+------Sun Nov 02 16:39:39 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[234.25, 19.75, -38.75, 107.5]
+Sun Nov 02 16:39:39 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	null
+------Sun Nov 02 16:44:06 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	[29.5, 10.0, 29.5, 224.5]
+------Sun Nov 02 16:48:26 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	[39.25, 0.25, 29.5, 224.5]
+Sun Nov 02 16:48:26 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	null
+------Sun Nov 02 16:52:49 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[10.0, 107.5, 10.0, 10.0]
+------Sun Nov 02 16:57:12 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[-77.75, 175.75, 49.0, 0.25]
+Sun Nov 02 16:57:12 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	null
+------Sun Nov 02 17:01:38 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[185.5, 185.5, 107.5, 263.5]
+------Sun Nov 02 17:06:03 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[185.5, 185.5, 107.5, 263.5]
+------Sun Nov 02 17:10:26 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[175.75, 219.625, 92.875, 273.25]
+------Sun Nov 02 17:14:51 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[168.4375, 241.5625, 85.5625, 273.25]
+------Sun Nov 02 17:19:15 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[164.78125, 252.53125, 84.34375, 270.8125]
+------Sun Nov 02 17:23:36 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[164.78125, 253.140625, 84.34375, 271.421875]
+------Sun Nov 02 17:28:01 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[164.171875, 254.96875, 84.0390625, 271.1171875]
+------Sun Nov 02 17:32:29 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[164.32421875, 254.359375, 84.19140625, 271.1171875]
+------Sun Nov 02 17:36:58 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[164.32421875, 254.283203125, 84.19140625, 271.1171875]
+Sun Nov 02 17:36:58 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[164.32421875, 254.283203125, 84.19140625, 271.1171875]	R:	3.2790054113644517E-4	bw:	183.0
+------Sun Nov 02 17:41:27 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[68.5, 49.0, 10.0, 49.0]
+------Sun Nov 02 17:45:54 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[117.25, 117.25, -19.25, 19.75]
+Sun Nov 02 17:45:54 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	null
+------Sun Nov 02 17:50:19 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[166.0, 224.5, 166.0, 205.0]
+------Sun Nov 02 17:54:40 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[156.25, 224.5, 156.25, 195.25]
+------Sun Nov 02 17:59:04 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[161.125, 219.625, 156.25, 200.125]
+------Sun Nov 02 18:03:30 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[161.125, 219.625, 156.25, 200.125]
+------Sun Nov 02 18:07:53 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[159.90625, 220.84375, 158.6875, 197.6875]
+------Sun Nov 02 18:12:17 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[160.515625, 221.453125, 158.078125, 198.90625]
+------Sun Nov 02 18:16:41 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[160.515625, 220.84375, 158.3828125, 198.6015625]
+------Sun Nov 02 18:21:06 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[160.36328125, 220.99609375, 158.078125, 198.6015625]
+------Sun Nov 02 18:25:30 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[160.439453125, 220.99609375, 158.23046875, 198.6015625]
+Sun Nov 02 18:25:30 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[160.439453125, 220.99609375, 158.23046875, 198.6015625]	R:	0.001468077128292836	bw:	0.0
+------Sun Nov 02 18:30:00 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[10.0, 107.5, 10.0, 10.0]
+------Sun Nov 02 18:34:26 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[97.75, 68.5, 29.5, 0.25]
+Sun Nov 02 18:34:26 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_Si_new]	bestThk:	null
+------Sun Nov 02 18:38:54 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[146.5, 244.0, 224.5, 185.5]
+------Sun Nov 02 18:43:23 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[166.0, 185.5, 234.25, 185.5]
+------Sun Nov 02 18:47:51 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[161.125, 200.125, 234.25, 180.625]
+------Sun Nov 02 18:52:25 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[156.25, 217.1875, 231.8125, 180.625]
+------Sun Nov 02 18:56:59 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[157.46875, 213.53125, 233.03125, 180.625]
+------Sun Nov 02 19:01:35 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[159.296875, 207.4375, 234.25, 181.234375]
+------Sun Nov 02 19:06:12 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[158.3828125, 210.1796875, 233.9453125, 180.9296875]
+------Sun Nov 02 19:10:41 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[158.078125, 211.24609375, 233.640625, 180.9296875]
+------Sun Nov 02 19:15:07 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[157.92578125, 211.703125, 233.48828125, 180.9296875]
+Sun Nov 02 19:15:07 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[157.92578125, 211.703125, 233.48828125, 180.9296875]	R:	3.2447301520126E-4	bw:	187.0
+------Sun Nov 02 19:19:36 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[68.5, 49.0, 49.0, 10.0]
+------Sun Nov 02 19:24:01 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[117.25, 117.25, 10.0, -9.5]
+Sun Nov 02 19:24:01 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	null
+------Sun Nov 02 19:28:36 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[166.0, 224.5, 166.0, 205.0]
+------Sun Nov 02 19:33:01 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[156.25, 214.75, 156.25, 195.25]
+------Sun Nov 02 19:37:31 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[156.25, 219.625, 156.25, 195.25]
+------Sun Nov 02 19:41:57 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[156.25, 219.625, 156.25, 195.25]
+------Sun Nov 02 19:46:22 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[157.46875, 215.96875, 157.46875, 195.25]
+------Sun Nov 02 19:50:46 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[156.859375, 215.96875, 156.859375, 194.640625]
+------Sun Nov 02 19:55:10 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[156.859375, 216.2734375, 157.1640625, 194.640625]
+------Sun Nov 02 19:59:35 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[156.859375, 216.12109375, 157.01171875, 194.640625]
+------Sun Nov 02 20:03:59 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[156.859375, 216.197265625, 157.1640625, 194.564453125]
+Sun Nov 02 20:03:59 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[156.859375, 216.197265625, 157.1640625, 194.564453125]	R:	0.0019307628133997596	bw:	0.0
+------Sun Nov 02 20:08:26 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Al2O3, TY_Si_new]	bestThk:	[10.0, 29.5, 88.0, 10.0]
+------Sun Nov 02 20:12:57 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Al2O3, TY_Si_new]	bestThk:	[-87.5, 117.25, 146.5, 0.25]
+Sun Nov 02 20:12:57 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Al2O3, TY_Si_new]	bestThk:	null
+------Sun Nov 02 20:17:30 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[107.5, 10.0, 29.5, 88.0]
+------Sun Nov 02 20:22:00 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[97.75, -77.75, 107.5, 117.25]
+Sun Nov 02 20:22:00 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Al2O3, TY_SiO2_new]	bestThk:	null
+------Sun Nov 02 20:26:29 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[107.5, 88.0, 10.0, 10.0]
+------Sun Nov 02 20:30:54 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[117.25, 117.25, 0.25, 0.25]
+Sun Nov 02 20:30:54 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	null
+------Sun Nov 02 20:35:21 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[107.5, 88.0, 10.0, 10.0]
+------Sun Nov 02 20:39:44 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[117.25, 117.25, 0.25, 0.25]
+Sun Nov 02 20:39:44 CST 2025	[TY_Si3N4_new, TY_SiO2_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	null
+------Sun Nov 02 20:44:11 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	[49.0, 10.0, 10.0, 185.5]
+------Sun Nov 02 20:48:32 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	[-19.25, 78.25, 19.75, 234.25]
+Sun Nov 02 20:48:32 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	null
+------Sun Nov 02 20:52:56 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[302.5, 49.0, 49.0, 185.5]
+------Sun Nov 02 20:57:20 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[244.0, 0.25, -38.75, 97.75]
+Sun Nov 02 20:57:20 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	null
+------Sun Nov 02 21:01:48 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[29.5, 302.5, 49.0, 185.5]
+------Sun Nov 02 21:06:13 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[-19.25, 361.0, 49.0, 185.5]
+Sun Nov 02 21:06:13 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new]	bestThk:	null
+------Sun Nov 02 21:10:38 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[29.5, 10.0, 29.5, 224.5]
+------Sun Nov 02 21:15:03 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[19.75, 19.75, 29.5, 224.5]
+------Sun Nov 02 21:19:26 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[24.625, 14.875, 29.5, 224.5]
+------Sun Nov 02 21:23:49 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[24.625, 14.875, 29.5, 224.5]
+------Sun Nov 02 21:28:15 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[29.5, 7.5625, 28.28125, 220.84375]
+------Sun Nov 02 21:32:43 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[34.984375, 2.078125, 28.28125, 220.234375]
+------Sun Nov 02 21:37:12 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[37.7265625, -0.96875, 28.28125, 220.234375]
+Sun Nov 02 21:37:12 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	null
+------Sun Nov 02 21:41:44 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si_new]	bestThk:	[10.0, 49.0, 88.0, 10.0]
+------Sun Nov 02 21:46:11 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si_new]	bestThk:	[39.25, 68.5, 127.0, 0.25]
+Sun Nov 02 21:46:11 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si_new]	bestThk:	null
+------Sun Nov 02 21:50:36 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[10.0, 88.0, 68.5, 29.5]
+------Sun Nov 02 21:54:58 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[39.25, 68.5, 156.25, -9.5]
+Sun Nov 02 21:54:58 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	null
+------Sun Nov 02 21:59:20 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[107.5, 10.0, 88.0, 10.0]
+------Sun Nov 02 22:03:41 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[146.5, -29.0, 117.25, 0.25]
+Sun Nov 02 22:03:41 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	null
+------Sun Nov 02 22:08:04 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[29.5, 68.5, 49.0, 68.5]
+------Sun Nov 02 22:12:24 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[-9.5, 117.25, 78.25, 39.25]
+Sun Nov 02 22:12:24 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	null
+------Sun Nov 02 22:16:46 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[10.0, 10.0, 107.5, 10.0]
+------Sun Nov 02 22:21:10 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[97.75, -87.5, 146.5, 0.25]
+Sun Nov 02 22:21:10 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new]	bestThk:	null
+------Sun Nov 02 22:25:32 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[49.0, 49.0, 10.0, 127.0]
+------Sun Nov 02 22:29:53 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[39.25, 136.75, -68.0, 127.0]
+Sun Nov 02 22:29:53 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	null
+------Sun Nov 02 22:34:16 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[127.0, 10.0, 10.0, 10.0]
+------Sun Nov 02 22:38:36 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[166.0, 97.75, -87.5, -19.25]
+Sun Nov 02 22:38:36 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	null
+------Sun Nov 02 22:43:00 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[10.0, 68.5, 10.0, 127.0]
+------Sun Nov 02 22:47:23 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[97.75, 78.25, -87.5, 117.25]
+Sun Nov 02 22:47:23 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	null
+------Sun Nov 02 22:51:51 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3, TY_Si_new]	bestThk:	[10.0, 10.0, 107.5, 10.0]
+------Sun Nov 02 22:56:19 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3, TY_Si_new]	bestThk:	[68.5, 19.75, 117.25, 0.25]
+Sun Nov 02 22:56:19 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3, TY_Si_new]	bestThk:	null
+------Sun Nov 02 23:00:50 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[10.0, 88.0, 49.0, 88.0]
+------Sun Nov 02 23:05:20 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[49.0, 58.75, 19.75, 107.5]
+------Sun Nov 02 23:09:51 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[10.0, 102.625, -4.625, 131.875]
+Sun Nov 02 23:09:51 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new]	bestThk:	null
+------Sun Nov 02 23:14:16 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[88.0, 10.0, 88.0, 10.0]
+------Sun Nov 02 23:18:38 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[175.75, -87.5, 88.0, 19.75]
+Sun Nov 02 23:18:38 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	null
+------Sun Nov 02 23:23:00 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[29.5, 29.5, 68.5, 49.0]
+------Sun Nov 02 23:27:21 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[-9.5, 88.0, 97.75, 19.75]
+Sun Nov 02 23:27:21 CST 2025	[TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	null
+------Sun Nov 02 23:31:47 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[127.0, 263.5, 166.0, 224.5]
+------Sun Nov 02 23:36:10 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[127.0, 263.5, 166.0, 234.25]
+------Sun Nov 02 23:40:32 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[122.125, 263.5, 161.125, 214.75]
+------Sun Nov 02 23:45:00 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[124.5625, 265.9375, 163.5625, 222.0625]
+------Sun Nov 02 23:49:24 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[125.78125, 263.5, 163.5625, 222.0625]
+------Sun Nov 02 23:53:48 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[125.78125, 263.5, 163.5625, 222.0625]
+------Sun Nov 02 23:58:12 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[125.4765625, 263.5, 163.5625, 222.3671875]
+------Mon Nov 03 00:02:38 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[125.32421875, 263.5, 163.41015625, 221.91015625]
+------Mon Nov 03 00:07:03 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[125.400390625, 263.5, 163.41015625, 221.833984375]
+Mon Nov 03 00:07:03 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_SiO2_new]	bestThk:	[125.400390625, 263.5, 163.41015625, 221.833984375]	R:	5.132836010179873E-4	bw:	0.0
+------Mon Nov 03 00:11:27 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Ta2O5_new]	bestThk:	[283.0, 49.0, 49.0, 185.5]
+------Mon Nov 03 00:16:12 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Ta2O5_new]	bestThk:	[253.75, 29.5, -48.5, 127.0]
+Mon Nov 03 00:16:12 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Ta2O5_new]	bestThk:	null
+------Mon Nov 03 00:20:40 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	[88.0, 302.5, 127.0, 127.0]
+------Mon Nov 03 00:25:09 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	[88.0, 341.5, 39.25, 195.25]
+------Mon Nov 03 00:29:41 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	[112.375, 317.125, 34.375, 205.0]
+------Mon Nov 03 00:34:10 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	[100.1875, 329.3125, 36.8125, 200.125]
+------Mon Nov 03 00:38:35 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	[101.40625, 329.3125, 36.8125, 201.34375]
+------Mon Nov 03 00:42:59 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	[98.359375, 332.359375, 37.421875, 200.125]
+------Mon Nov 03 00:47:25 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	[99.578125, 331.140625, 37.1171875, 200.4296875]
+------Mon Nov 03 00:51:48 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	[99.578125, 331.140625, 37.1171875, 200.4296875]
+------Mon Nov 03 00:56:11 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	[99.654296875, 331.064453125, 37.1171875, 200.505859375]
+Mon Nov 03 00:56:11 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Si3N4_new]	bestThk:	[99.654296875, 331.064453125, 37.1171875, 200.505859375]	R:	8.696124610275002E-4	bw:	0.0
+------Mon Nov 03 01:00:38 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[244.0, 88.0, 185.5, 224.5]
+------Mon Nov 03 01:05:04 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[224.5, 88.0, 156.25, 175.75]
+------Mon Nov 03 01:09:29 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[224.5, 88.0, 156.25, 175.75]
+------Mon Nov 03 01:13:54 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[222.0625, 90.4375, 156.25, 175.75]
+------Mon Nov 03 01:18:18 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[222.0625, 89.21875, 155.03125, 174.53125]
+------Mon Nov 03 01:22:42 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[222.671875, 89.21875, 155.640625, 175.75]
+------Mon Nov 03 01:27:10 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[222.671875, 88.609375, 155.3359375, 175.4453125]
+------Mon Nov 03 01:31:33 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[222.3671875, 89.06640625, 155.3359375, 175.140625]
+------Mon Nov 03 01:35:55 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[222.595703125, 88.837890625, 155.412109375, 175.369140625]
+Mon Nov 03 01:35:55 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si_new, TY_Al2O3]	bestThk:	[222.595703125, 88.837890625, 155.412109375, 175.369140625]	R:	4.0044037154099904E-4	bw:	182.0
+------Mon Nov 03 01:40:20 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_SiO2_new, TY_Si_new]	bestThk:	[68.5, 10.0, 68.5, 10.0]
+------Mon Nov 03 01:44:48 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_SiO2_new, TY_Si_new]	bestThk:	[117.25, -9.5, 127.0, 0.25]
+Mon Nov 03 01:44:48 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_SiO2_new, TY_Si_new]	bestThk:	null
+------Mon Nov 03 01:49:16 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[107.5, 29.5, 68.5, 10.0]
+------Mon Nov 03 01:53:43 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[117.25, -9.5, 127.0, 0.25]
+Mon Nov 03 01:53:43 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	null
+------Mon Nov 03 01:58:19 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[107.5, 29.5, 68.5, 10.0]
+------Mon Nov 03 02:02:44 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[117.25, -9.5, 127.0, 0.25]
+Mon Nov 03 02:02:44 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_SiO2_new, TY_Si3N4_new]	bestThk:	null
+------Mon Nov 03 02:07:06 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_SiO2_new, TY_Al2O3]	bestThk:	[107.5, 10.0, 49.0, 49.0]
+------Mon Nov 03 02:11:26 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_SiO2_new, TY_Al2O3]	bestThk:	[117.25, -9.5, 127.0, 0.25]
+Mon Nov 03 02:11:26 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_SiO2_new, TY_Al2O3]	bestThk:	null
+------Mon Nov 03 02:15:49 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_Si_new]	bestThk:	[29.5, 88.0, 10.0, 10.0]
+------Mon Nov 03 02:20:10 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_Si_new]	bestThk:	[88.0, 136.75, -9.5, 0.25]
+Mon Nov 03 02:20:10 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_Si_new]	bestThk:	null
+------Mon Nov 03 02:24:34 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[166.0, 185.5, 146.5, 224.5]
+------Mon Nov 03 02:28:56 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[166.0, 195.25, 166.0, 224.5]
+------Mon Nov 03 02:33:18 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[161.125, 205.0, 156.25, 224.5]
+------Mon Nov 03 02:37:39 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[161.125, 200.125, 158.6875, 222.0625]
+------Mon Nov 03 02:42:01 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[161.125, 198.90625, 158.6875, 220.84375]
+------Mon Nov 03 02:46:25 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[161.125, 199.515625, 158.6875, 221.453125]
+------Mon Nov 03 02:50:47 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[161.125, 199.515625, 158.3828125, 221.453125]
+------Mon Nov 03 02:55:08 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[161.27734375, 199.2109375, 158.6875, 221.453125]
+------Mon Nov 03 02:59:31 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[161.201171875, 199.439453125, 158.6875, 221.453125]
+Mon Nov 03 02:59:31 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[161.201171875, 199.439453125, 158.6875, 221.453125]	R:	0.001540195012612578	bw:	0.0
+------Mon Nov 03 03:03:58 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[88.0, 88.0, 10.0, 10.0]
+------Mon Nov 03 03:08:24 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[88.0, 97.75, 97.75, -87.5]
+Mon Nov 03 03:08:24 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	null
+------Mon Nov 03 03:12:52 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[49.0, 49.0, 29.5, 68.5]
+------Mon Nov 03 03:17:19 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[117.25, 107.5, -58.25, 88.0]
+Mon Nov 03 03:17:19 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new, TY_Al2O3]	bestThk:	null
+------Mon Nov 03 03:21:48 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new, TY_Si_new]	bestThk:	[10.0, 107.5, 10.0, 10.0]
+------Mon Nov 03 03:26:09 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new, TY_Si_new]	bestThk:	[88.0, 136.75, -9.5, 0.25]
+Mon Nov 03 03:26:09 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new, TY_Si_new]	bestThk:	null
+------Mon Nov 03 03:30:32 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[88.0, 68.5, 10.0, 49.0]
+------Mon Nov 03 03:34:52 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[146.5, 107.5, -87.5, 136.75]
+Mon Nov 03 03:34:52 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new, TY_SiO2_new]	bestThk:	null
+------Mon Nov 03 03:39:14 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[88.0, 88.0, 10.0, 10.0]
+------Mon Nov 03 03:43:35 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[88.0, 117.25, -58.25, 58.75]
+Mon Nov 03 03:43:35 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	null
+------Mon Nov 03 03:48:01 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new, TY_Al2O3]	bestThk:	[10.0, 49.0, 49.0, 88.0]
+------Mon Nov 03 03:52:20 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new, TY_Al2O3]	bestThk:	[-87.5, 49.0, 88.0, 166.0]
+Mon Nov 03 03:52:20 CST 2025	[TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new, TY_Al2O3]	bestThk:	null
+------Mon Nov 03 03:56:45 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Si_new]	bestThk:	[29.5, 29.5, 146.5, 10.0]
+------Mon Nov 03 04:01:08 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Si_new]	bestThk:	[49.0, 19.75, 205.0, 0.25]
+Mon Nov 03 04:01:08 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Si_new]	bestThk:	null
+------Mon Nov 03 04:05:32 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[49.0, 29.5, 185.5, 29.5]
+------Mon Nov 03 04:09:53 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[49.0, 29.5, 205.0, 19.75]
+------Mon Nov 03 04:14:14 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[44.125, 24.625, 209.875, 10.0]
+------Mon Nov 03 04:18:37 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[46.5625, 27.0625, 214.75, 12.4375]
+------Mon Nov 03 04:23:02 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[46.5625, 25.84375, 225.71875, 6.34375]
+------Mon Nov 03 04:27:32 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[46.5625, 25.84375, 231.203125, 4.515625]
+------Mon Nov 03 04:32:01 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[47.171875, 26.1484375, 233.3359375, 4.515625]
+------Mon Nov 03 04:36:30 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[47.01953125, 25.99609375, 234.70703125, 3.75390625]
+------Mon Nov 03 04:41:00 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[46.943359375, 25.99609375, 235.392578125, 3.44921875]
+Mon Nov 03 04:41:00 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[46.943359375, 25.99609375, 235.392578125, 3.44921875]	R:	2.6932362247160713E-5	bw:	302.0
+------Mon Nov 03 04:45:31 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[49.0, 29.5, 185.5, 29.5]
+------Mon Nov 03 04:49:57 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[39.25, 29.5, 175.75, 29.5]
+------Mon Nov 03 04:54:21 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[44.125, 24.625, 209.875, 10.0]
+------Mon Nov 03 04:58:47 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[46.5625, 27.0625, 209.875, 14.875]
+------Mon Nov 03 05:03:13 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[46.5625, 25.84375, 220.84375, 8.78125]
+------Mon Nov 03 05:07:38 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[46.5625, 25.84375, 225.109375, 6.953125]
+------Mon Nov 03 05:12:00 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[46.8671875, 26.1484375, 227.8515625, 6.6484375]
+------Mon Nov 03 05:16:24 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[46.8671875, 26.1484375, 228.91796875, 6.19140625]
+------Mon Nov 03 05:20:49 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[46.791015625, 26.072265625, 229.603515625, 5.810546875]
+Mon Nov 03 05:20:49 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[46.791015625, 26.072265625, 229.603515625, 5.810546875]	R:	2.7609994189295206E-5	bw:	299.0
+------Mon Nov 03 05:25:13 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[49.0, 29.5, 166.0, 68.5]
+------Mon Nov 03 05:29:35 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[49.0, 29.5, 175.75, 58.75]
+------Mon Nov 03 05:33:57 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[44.125, 24.625, 195.25, 29.5]
+------Mon Nov 03 05:38:17 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[46.5625, 27.0625, 202.5625, 31.9375]
+------Mon Nov 03 05:42:39 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[46.5625, 25.84375, 213.53125, 20.96875]
+------Mon Nov 03 05:47:08 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[46.5625, 25.84375, 219.015625, 17.3125]
+------Mon Nov 03 05:51:39 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[46.8671875, 26.1484375, 221.7578125, 16.3984375]
+------Mon Nov 03 05:56:07 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[46.8671875, 26.1484375, 223.12890625, 15.484375]
+------Mon Nov 03 06:00:41 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[46.8671875, 26.072265625, 223.814453125, 14.798828125]
+Mon Nov 03 06:00:41 CST 2025	[TY_Al2O3, TY_Si_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[46.8671875, 26.072265625, 223.814453125, 14.798828125]	R:	2.9707121918769475E-5	bw:	301.0
+------Mon Nov 03 06:05:07 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[380.5, 107.5, 88.0, 10.0]
+------Mon Nov 03 06:09:33 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[390.25, 107.5, 97.75, 10.0]
+------Mon Nov 03 06:13:58 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[404.875, 73.375, 107.5, 14.875]
+------Mon Nov 03 06:18:24 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[395.125, 95.3125, 92.875, 14.875]
+------Mon Nov 03 06:22:48 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[396.34375, 92.875, 94.09375, 14.875]
+------Mon Nov 03 06:27:10 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[395.734375, 93.484375, 93.484375, 14.875]
+------Mon Nov 03 06:31:35 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[395.734375, 93.484375, 93.484375, 14.875]
+------Mon Nov 03 06:35:58 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[395.88671875, 93.33203125, 93.63671875, 14.875]
+------Mon Nov 03 06:40:21 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[395.658203125, 93.7890625, 93.560546875, 14.798828125]
+Mon Nov 03 06:40:21 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[395.658203125, 93.7890625, 93.560546875, 14.798828125]	R:	0.002031282395174352	bw:	0.0
+------Mon Nov 03 06:44:46 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[29.5, 29.5, 127.0, 166.0]
+------Mon Nov 03 06:49:10 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[-48.5, -19.25, 127.0, 214.75]
+Mon Nov 03 06:49:10 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	null
+------Mon Nov 03 06:53:35 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[10.0, 49.0, 166.0, 10.0]
+------Mon Nov 03 06:57:58 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[97.75, 0.25, 146.5, -87.5]
+Mon Nov 03 06:57:58 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	null
+------Mon Nov 03 07:02:23 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[10.0, 185.5, 88.0, 127.0]
+------Mon Nov 03 07:06:50 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[-9.5, 146.5, 78.25, 127.0]
+Mon Nov 03 07:06:50 CST 2025	[TY_Al2O3, TY_Si_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	null
+------Mon Nov 03 07:11:21 CST 2025	[TY_Al2O3, TY_Si_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[10.0, 127.0, 107.5, 10.0]
+------Mon Nov 03 07:15:49 CST 2025	[TY_Al2O3, TY_Si_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[0.25, 39.25, 175.75, 0.25]
+Mon Nov 03 07:15:49 CST 2025	[TY_Al2O3, TY_Si_new, TY_Si3N4_new, TY_Si_new]	bestThk:	null
+------Mon Nov 03 07:20:21 CST 2025	[TY_Al2O3, TY_Si_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[10.0, 166.0, 107.5, 107.5]
+------Mon Nov 03 07:24:55 CST 2025	[TY_Al2O3, TY_Si_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[-9.5, 146.5, 107.5, 127.0]
+Mon Nov 03 07:24:55 CST 2025	[TY_Al2O3, TY_Si_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	null
+------Mon Nov 03 07:29:19 CST 2025	[TY_Al2O3, TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[10.0, 49.0, 107.5, 68.5]
+------Mon Nov 03 07:33:40 CST 2025	[TY_Al2O3, TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[-77.75, -38.75, 10.0, 78.25]
+Mon Nov 03 07:33:40 CST 2025	[TY_Al2O3, TY_Si_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	null
+------Mon Nov 03 07:38:03 CST 2025	[TY_Al2O3, TY_Si_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[10.0, 185.5, 88.0, 127.0]
+------Mon Nov 03 07:42:27 CST 2025	[TY_Al2O3, TY_Si_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[10.0, 175.75, 78.25, 127.0]
+------Mon Nov 03 07:46:53 CST 2025	[TY_Al2O3, TY_Si_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[-14.375, 146.5, 73.375, 136.75]
+Mon Nov 03 07:46:53 CST 2025	[TY_Al2O3, TY_Si_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	null
+------Mon Nov 03 07:51:22 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_Si_new]	bestThk:	[10.0, 185.5, 127.0, 10.0]
+------Mon Nov 03 07:55:46 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_Si_new]	bestThk:	[-29.0, 146.5, 205.0, 0.25]
+Mon Nov 03 07:55:46 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_Si_new]	bestThk:	null
+------Mon Nov 03 08:00:11 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[29.5, 29.5, 185.5, 49.0]
+------Mon Nov 03 08:04:33 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[39.25, 29.5, 146.5, 107.5]
+------Mon Nov 03 08:09:03 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[39.25, 24.625, 97.75, 146.5]
+------Mon Nov 03 08:13:51 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[41.6875, 24.625, 78.25, 168.4375]
+------Mon Nov 03 08:18:35 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[42.90625, 24.625, 70.9375, 176.96875]
+------Mon Nov 03 08:23:11 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[43.515625, 24.625, 66.0625, 181.84375]
+------Mon Nov 03 08:30:45 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[44.125, 24.9296875, 65.1484375, 184.5859375]
+------Mon Nov 03 08:43:53 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[44.27734375, 24.9296875, 63.625, 185.95703125]
+------Mon Nov 03 08:58:14 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[44.353515625, 24.9296875, 63.015625, 186.642578125]
+Mon Nov 03 08:58:14 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[44.353515625, 24.9296875, 63.015625, 186.642578125]	R:	3.230417865720055E-5	bw:	292.0
+------Mon Nov 03 09:11:43 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[29.5, 29.5, 166.0, 29.5]
+------Mon Nov 03 09:21:59 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[29.5, 29.5, 234.25, -9.5]
+Mon Nov 03 09:21:59 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	null
+------Mon Nov 03 09:32:26 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[29.5, 29.5, 166.0, 29.5]
+------Mon Nov 03 09:42:35 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[29.5, 29.5, 234.25, -9.5]
+Mon Nov 03 09:42:35 CST 2025	[TY_Al2O3, TY_Si_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	null
+------Mon Nov 03 09:53:05 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	[10.0, 49.0, 29.5, 283.0]
+------Mon Nov 03 10:03:05 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	[-87.5, 127.0, 19.75, 224.5]
+Mon Nov 03 10:03:05 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_SiO2_new]	bestThk:	null
+------Mon Nov 03 10:08:59 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[263.5, 127.0, 127.0, 127.0]
+------Mon Nov 03 10:17:43 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[263.5, 127.0, 127.0, 127.0]
+------Mon Nov 03 10:22:08 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[248.875, 146.5, 127.0, 127.0]
+------Mon Nov 03 10:27:48 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[256.1875, 136.75, 127.0, 127.0]
+------Mon Nov 03 10:38:10 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[251.3125, 142.84375, 127.0, 127.0]
+------Mon Nov 03 10:48:36 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[247.046875, 148.328125, 127.609375, 126.390625]
+------Mon Nov 03 10:59:05 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[244.609375, 151.0703125, 127.609375, 126.0859375]
+------Mon Nov 03 11:09:41 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[243.54296875, 152.44140625, 127.609375, 125.93359375]
+------Mon Nov 03 11:20:15 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[243.009765625, 153.126953125, 127.685546875, 125.857421875]
+Mon Nov 03 11:20:15 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[243.009765625, 153.126953125, 127.685546875, 125.857421875]	R:	0.0015533289885399774	bw:	0.0
+------Mon Nov 03 11:30:25 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[263.5, 127.0, 127.0, 127.0]
+------Mon Nov 03 11:41:13 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[253.75, 136.75, 127.0, 127.0]
+------Mon Nov 03 11:51:48 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[273.25, 117.25, 127.0, 131.875]
+------Mon Nov 03 12:02:28 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[263.5, 127.0, 127.0, 129.4375]
+------Mon Nov 03 12:13:14 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[254.96875, 137.96875, 128.21875, 128.21875]
+------Mon Nov 03 12:23:14 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[250.703125, 143.453125, 128.828125, 128.21875]
+------Mon Nov 03 12:33:50 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[248.265625, 146.1953125, 128.828125, 127.9140625]
+------Mon Nov 03 12:44:38 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[247.19921875, 147.56640625, 128.98046875, 127.76171875]
+------Mon Nov 03 12:55:32 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[246.666015625, 148.251953125, 128.98046875, 127.76171875]
+Mon Nov 03 12:55:32 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[246.666015625, 148.251953125, 128.98046875, 127.76171875]	R:	0.0015732844175651121	bw:	0.0
+------Mon Nov 03 13:10:10 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	[185.5, 224.5, 146.5, 166.0]
+------Mon Nov 03 13:24:55 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	[185.5, 224.5, 146.5, 166.0]
+------Mon Nov 03 13:39:40 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	[180.625, 229.375, 146.5, 166.0]
+------Mon Nov 03 13:54:15 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	[200.125, 207.4375, 148.9375, 168.4375]
+------Mon Nov 03 14:08:40 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	[194.03125, 213.53125, 147.71875, 167.21875]
+------Mon Nov 03 14:23:42 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	[196.46875, 211.09375, 148.328125, 167.828125]
+------Mon Nov 03 14:40:12 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	[194.9453125, 213.2265625, 148.328125, 168.1328125]
+------Mon Nov 03 14:50:55 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	[194.9453125, 213.2265625, 148.328125, 168.1328125]
+------Mon Nov 03 15:02:26 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	[194.79296875, 213.302734375, 148.251953125, 168.056640625]
+Mon Nov 03 15:02:26 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si_new, TY_Al2O3]	bestThk:	[194.79296875, 213.302734375, 148.251953125, 168.056640625]	R:	0.0014974179062512813	bw:	0.0
+------Mon Nov 03 15:12:33 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[88.0, 29.5, 10.0, 10.0]
+------Mon Nov 03 15:22:42 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[146.5, -38.75, 49.0, 0.25]
+Mon Nov 03 15:22:42 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	null
+------Mon Nov 03 15:33:25 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[10.0, 10.0, 88.0, 127.0]
+------Mon Nov 03 15:40:42 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[-87.5, 88.0, 97.75, 146.5]
+Mon Nov 03 15:40:42 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	null
+------Mon Nov 03 15:47:51 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[29.5, 49.0, 68.5, 10.0]
+------Mon Nov 03 15:57:35 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[107.5, -9.5, 146.5, -87.5]
+Mon Nov 03 15:57:35 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	null
+------Mon Nov 03 16:05:56 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[10.0, 29.5, 49.0, 107.5]
+------Mon Nov 03 16:16:27 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[-87.5, 78.25, 78.25, 146.5]
+Mon Nov 03 16:16:27 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	null
+------Mon Nov 03 16:27:10 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[88.0, 29.5, 10.0, 10.0]
+------Mon Nov 03 16:37:44 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[156.25, -48.5, 49.0, 0.25]
+Mon Nov 03 16:37:44 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si3N4_new, TY_Si_new]	bestThk:	null
+------Mon Nov 03 16:48:13 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[10.0, 10.0, 88.0, 127.0]
+------Mon Nov 03 16:58:56 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[-87.5, 78.25, 117.25, 136.75]
+Mon Nov 03 16:58:56 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	null
+------Mon Nov 03 17:08:16 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[29.5, 49.0, 10.0, 68.5]
+------Mon Nov 03 17:18:19 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[-58.25, 136.75, 97.75, -19.25]
+Mon Nov 03 17:18:19 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	null
+------Mon Nov 03 17:28:15 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[29.5, 10.0, 68.5, 88.0]
+------Mon Nov 03 17:38:54 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[-68.0, 49.0, 107.5, 127.0]
+Mon Nov 03 17:38:54 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	null
+------Mon Nov 03 17:50:47 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Al2O3, TY_Si_new]	bestThk:	[10.0, 10.0, 107.5, 10.0]
+------Mon Nov 03 18:02:42 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Al2O3, TY_Si_new]	bestThk:	[-68.0, 19.75, 175.75, 10.0]
+Mon Nov 03 18:02:42 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Al2O3, TY_Si_new]	bestThk:	null
+------Mon Nov 03 18:14:37 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[166.0, 10.0, 10.0, 29.5]
+------Mon Nov 03 18:26:30 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[156.25, -87.5, 97.75, 29.5]
+Mon Nov 03 18:26:30 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Al2O3, TY_SiO2_new]	bestThk:	null
+------Mon Nov 03 18:38:30 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[10.0, 29.5, 49.0, 68.5]
+------Mon Nov 03 18:50:06 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[-87.5, 97.75, 117.25, 39.25]
+Mon Nov 03 18:50:06 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	null
+------Mon Nov 03 19:01:51 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[10.0, 49.0, 10.0, 88.0]
+------Mon Nov 03 19:13:47 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[-87.5, 136.75, 49.0, 58.75]
+Mon Nov 03 19:13:47 CST 2025	[TY_Al2O3, TY_SiO2_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	null
+------Mon Nov 03 19:25:48 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	[10.0, 49.0, 10.0, 185.5]
+------Mon Nov 03 19:37:46 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	[-68.0, 127.0, 29.5, 253.75]
+Mon Nov 03 19:37:46 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si_new, TY_SiO2_new]	bestThk:	null
+------Mon Nov 03 19:49:52 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[10.0, 322.0, 49.0, 185.5]
+------Mon Nov 03 20:02:00 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[0.25, 263.5, -48.5, 117.25]
+Mon Nov 03 20:02:00 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	null
+------Mon Nov 03 20:14:04 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[10.0, 322.0, 49.0, 185.5]
+------Mon Nov 03 20:26:08 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[-9.5, 351.25, 49.0, 185.5]
+Mon Nov 03 20:26:08 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si_new, TY_Si3N4_new]	bestThk:	null
+------Mon Nov 03 20:38:15 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[10.0, 29.5, 29.5, 224.5]
+------Mon Nov 03 20:50:12 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	[-77.75, 117.25, 39.25, 224.5]
+Mon Nov 03 20:50:12 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si_new, TY_Al2O3]	bestThk:	null
+------Mon Nov 03 21:02:11 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new, TY_Si_new]	bestThk:	[88.0, 10.0, 29.5, 10.0]
+------Mon Nov 03 21:14:07 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new, TY_Si_new]	bestThk:	[29.5, 78.25, 117.25, 0.25]
+Mon Nov 03 21:14:07 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new, TY_Si_new]	bestThk:	null
+------Mon Nov 03 21:26:04 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[10.0, 88.0, 68.5, 29.5]
+------Mon Nov 03 21:37:54 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[10.0, 97.75, 156.25, -9.5]
+Mon Nov 03 21:37:54 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	null
+------Mon Nov 03 21:50:00 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[10.0, 88.0, 68.5, 29.5]
+------Mon Nov 03 22:01:51 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[10.0, 97.75, 127.0, 0.25]
+Mon Nov 03 22:01:51 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	null
+------Mon Nov 03 22:13:55 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[10.0, 88.0, 49.0, 68.5]
+------Mon Nov 03 22:25:52 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[10.0, 97.75, 88.0, 29.5]
+------Mon Nov 03 22:37:48 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[0.25, 112.375, 131.875, -4.625]
+Mon Nov 03 22:37:48 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_SiO2_new, TY_Al2O3]	bestThk:	null
+------Mon Nov 03 22:49:53 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[107.5, 10.0, 10.0, 10.0]
+------Mon Nov 03 23:01:40 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new]	bestThk:	[88.0, 78.25, -9.5, 0.25]
+Mon Nov 03 23:01:40 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new, TY_Si_new]	bestThk:	null
+------Mon Nov 03 23:13:33 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[10.0, 88.0, 10.0, 127.0]
+------Mon Nov 03 23:25:28 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	[10.0, 136.75, -38.75, 127.0]
+Mon Nov 03 23:25:28 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new, TY_SiO2_new]	bestThk:	null
+------Mon Nov 03 23:37:29 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[88.0, 10.0, 10.0, 49.0]
+------Mon Nov 03 23:49:26 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	[97.75, 97.75, -87.5, 49.0]
+Mon Nov 03 23:49:26 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new, TY_Ta2O5_new]	bestThk:	null
+------Tue Nov 04 00:01:25 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[49.0, 10.0, 49.0, 88.0]
+------Tue Nov 04 00:12:35 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	[10.0, -58.25, 136.75, 117.25]
+Tue Nov 04 00:12:35 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Si3N4_new, TY_Al2O3]	bestThk:	null
+------Tue Nov 04 00:24:02 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Al2O3, TY_Si_new]	bestThk:	[49.0, 10.0, 68.5, 10.0]
+------Tue Nov 04 00:35:56 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Al2O3, TY_Si_new]	bestThk:	[10.0, 78.25, 117.25, 0.25]
+Tue Nov 04 00:35:56 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Al2O3, TY_Si_new]	bestThk:	null
+------Tue Nov 04 00:47:52 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[10.0, 88.0, 49.0, 88.0]
+------Tue Nov 04 00:59:32 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[10.0, 97.75, 10.0, 117.25]
+------Tue Nov 04 01:11:22 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[-4.625, 117.25, 5.125, 122.125]
+Tue Nov 04 01:11:22 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Al2O3, TY_SiO2_new]	bestThk:	null
+------Tue Nov 04 01:23:16 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[29.5, 49.0, 107.5, 10.0]
+------Tue Nov 04 01:34:42 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[-29.0, -38.75, 195.25, 39.25]
+Tue Nov 04 01:34:42 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	null
+------Tue Nov 04 01:46:09 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[29.5, 49.0, 107.5, 10.0]
+------Tue Nov 04 01:58:02 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[-19.25, -48.5, 195.25, 39.25]
+Tue Nov 04 01:58:02 CST 2025	[TY_Al2O3, TY_Ta2O5_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	null
+------Tue Nov 04 02:10:03 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Si_new, TY_SiO2_new]	bestThk:	[10.0, 49.0, 10.0, 185.5]
+------Tue Nov 04 02:22:00 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Si_new, TY_SiO2_new]	bestThk:	[-68.0, 127.0, 29.5, 253.75]
+Tue Nov 04 02:22:00 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Si_new, TY_SiO2_new]	bestThk:	null
+------Tue Nov 04 02:34:05 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[10.0, 341.5, 49.0, 185.5]
+------Tue Nov 04 02:46:04 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	[-9.5, 283.0, -48.5, 117.25]
+Tue Nov 04 02:46:04 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Si_new, TY_Ta2O5_new]	bestThk:	null
+------Tue Nov 04 02:57:34 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[29.5, 302.5, 49.0, 185.5]
+------Tue Nov 04 03:09:11 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	[0.25, 341.5, 49.0, 185.5]
+Tue Nov 04 03:09:11 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Si_new, TY_Si3N4_new]	bestThk:	null
+------Tue Nov 04 03:21:19 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	[10.0, 29.5, 29.5, 224.5]
+------Tue Nov 04 03:33:17 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	[-77.75, 117.25, 39.25, 224.5]
+Tue Nov 04 03:33:17 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Si_new, TY_Al2O3]	bestThk:	null
+------Tue Nov 04 03:45:25 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	[88.0, 10.0, 29.5, 10.0]
+------Tue Nov 04 03:57:28 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	[39.25, 78.25, 97.75, 0.25]
+Tue Nov 04 03:57:28 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_SiO2_new, TY_Si_new]	bestThk:	null
+------Tue Nov 04 04:09:23 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[49.0, 68.5, 68.5, 10.0]
+------Tue Nov 04 04:20:36 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	[-9.5, 127.0, 117.25, 0.25]
+Tue Nov 04 04:20:36 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_SiO2_new, TY_Ta2O5_new]	bestThk:	null
+------Tue Nov 04 04:32:18 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[10.0, 88.0, 68.5, 29.5]
+------Tue Nov 04 04:44:12 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	[-9.5, 127.0, 117.25, 0.25]
+Tue Nov 04 04:44:12 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_SiO2_new, TY_Si3N4_new]	bestThk:	null
+------Tue Nov 04 04:56:11 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[29.5, 88.0, 88.0, 10.0]
+------Tue Nov 04 05:08:06 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_SiO2_new, TY_Al2O3]	bestThk:	[-9.5, 127.0, 146.5, -19.25]
+Tue Nov 04 05:08:06 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_SiO2_new, TY_Al2O3]	bestThk:	null
+------Tue Nov 04 05:20:13 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[107.5, 10.0, 10.0, 10.0]
+------Tue Nov 04 05:32:04 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	[88.0, 10.0, 58.75, 0.25]
+Tue Nov 04 05:32:04 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new, TY_Si_new]	bestThk:	null
+------Tue Nov 04 05:43:33 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[10.0, 29.5, 68.5, 127.0]
+------Tue Nov 04 05:55:08 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[10.0, 19.75, 78.25, 127.0]
+------Tue Nov 04 06:07:04 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	[-4.625, 10.0, 107.5, 127.0]
+Tue Nov 04 06:07:04 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new, TY_SiO2_new]	bestThk:	null
+------Tue Nov 04 06:19:05 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[88.0, 10.0, 49.0, 10.0]
+------Tue Nov 04 06:31:00 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	[88.0, 49.0, 107.5, -87.5]
+Tue Nov 04 06:31:00 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new, TY_Si3N4_new]	bestThk:	null
+------Tue Nov 04 06:43:05 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[49.0, 49.0, 10.0, 88.0]
+------Tue Nov 04 06:54:57 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	[19.75, -29.0, 97.75, 117.25]
+Tue Nov 04 06:54:57 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Ta2O5_new, TY_Al2O3]	bestThk:	null
+------Tue Nov 04 07:06:29 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Al2O3, TY_Si_new]	bestThk:	[49.0, 10.0, 68.5, 10.0]
+------Tue Nov 04 07:18:05 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Al2O3, TY_Si_new]	bestThk:	[10.0, 78.25, 117.25, 0.25]
+Tue Nov 04 07:18:05 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Al2O3, TY_Si_new]	bestThk:	null
+------Tue Nov 04 07:29:50 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[29.5, 68.5, 68.5, 49.0]
+------Tue Nov 04 07:41:47 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Al2O3, TY_SiO2_new]	bestThk:	[0.25, 117.25, -9.5, 127.0]
+Tue Nov 04 07:41:47 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Al2O3, TY_SiO2_new]	bestThk:	null
+------Tue Nov 04 07:53:17 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[10.0, 88.0, 88.0, 10.0]
+------Tue Nov 04 08:05:00 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	[10.0, 78.25, 136.75, -9.5]
+Tue Nov 04 08:05:00 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Al2O3, TY_Ta2O5_new]	bestThk:	null
+------Tue Nov 04 08:13:50 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[10.0, 88.0, 88.0, 10.0]
+------Tue Nov 04 08:23:15 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	[10.0, 78.25, 136.75, -9.5]
+Tue Nov 04 08:23:15 CST 2025	[TY_Al2O3, TY_Si3N4_new, TY_Al2O3, TY_Si3N4_new]	bestThk:	null
+
+Process finished with exit code 0
