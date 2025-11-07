@@ -1,0 +1,5 @@
+material:	TY_Si_new	bestThickness:	334.96953124999936	R:	0.2402882205477546	bandWidth=	0.0
+material:	TY_SiO2_new	bestThickness:	223.10214843749873	R:	0.04166892078125961	bandWidth=	0.0
+material:	TY_Ta2O5_new	bestThickness:	159.66054687499934	R:	0.015998207874598148	bandWidth=	0.0
+material:	TY_Si3N4_new	bestThickness:	161.94785156249935	R:	0.01264716583762976	bandWidth=	0.0
+material:	TY_Al2O3	bestThickness:	200.38222656249957	R:	0.009890058476745407	bandWidth=	0.0
